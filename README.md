@@ -1,0 +1,2 @@
+# LeetCode
+Submitted Solutions
