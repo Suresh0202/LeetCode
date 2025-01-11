@@ -9,7 +9,6 @@ class Solution {
         {
              mapp.put(chh,mapp.getOrDefault(chh,0)+1);
         }
-        // System.out.println(mapp); 
         Set<Character> keys = mapp.keySet();
         int p=0;
         int o=0;
@@ -21,6 +20,7 @@ class Solution {
                 o++;
             }
         }
+        System.out.println(mapp+" "+o);
         if(o>k) return false;
         return true;
     }
