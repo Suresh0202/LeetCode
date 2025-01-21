@@ -88,19 +88,23 @@ Submitted Solutions
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Suresh0202/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Suresh0202/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Suresh0202/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Suresh0202/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
