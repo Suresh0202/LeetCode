@@ -1,31 +1,29 @@
 class Solution {
-    public void generate(int op,int clo,int id,StringBuilder s,int n,List<String>ans)
+    public static void func(int opct,int clct,int n,List<String>s,StringBuilder sb,int idx)
     {
-        if(id == 2*n)
+        if(idx==n)
         {
-            ans.add(s.toString());
+            s.add(sb.toString());
             return ;
         }
-        if(op < n)
+        if(opct<n/2)
         {
-            s.append("(");
-            generate(op+1,clo,id+1,s,n,ans);
-            s.deleteCharAt(s.length()-1);
+            sb.append("(");
+            func(opct+1,clct,n,s,sb,idx+1);
+             sb.deleteCharAt(sb.length()-1);
         }
-        if(clo < op)
+        if(clct<opct)
         {
-            s.append(")");
-            generate(op,clo+1,id+1,s,n,ans);
-            s.deleteCharAt(s.length()-1);
+            sb.append(")");
+            func(opct,clct+1,n,s,sb,idx+1);
+            sb.deleteCharAt(sb.length()-1);
+        }
 
-        }
     }
     public List<String> generateParenthesis(int n) {
-        List<String>ans=new ArrayList<>();
-        StringBuilder s=new StringBuilder();
-        generate(0,0,0,s,n,ans);
-        return ans;
-
-
+        List<String>s=new ArrayList<>();
+        StringBuilder sb=new StringBuilder();
+        func(0,0,2*n,s,sb,0);
+        return s;
     }
 }
