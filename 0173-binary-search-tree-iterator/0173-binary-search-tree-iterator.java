@@ -43,10 +43,10 @@ class BSTIterator {
         {
             return false;
         }
-        if(arr.size()==0)
-        {
-            return false;
-        }
+        // if(arr.size()==0)
+        // {
+        //     return false;
+        // }
         return true;
     }
 }
