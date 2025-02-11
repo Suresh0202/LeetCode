@@ -17,13 +17,13 @@ class Solution {
             }
             n--;
         }
-          System.out.println("before " + st);
+        //   System.out.println("before " + st);
         for(int i=aa.size()-1;i>=0;i--)
         {
             st.add(aa.get(i));
         }
         // System.out.println(ans);
-         System.out.println("after " + st);
+        //  System.out.println("after " + st);
         if(ans==0)
         {
              while(n1>=0 && !st.isEmpty())
@@ -52,9 +52,9 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             st.push(s.charAt(i));
             if (st.peek() == part.charAt(n - 1)) {
-                System.out.println("before " + st);
-                func(st, part);
-                System.out.println("after " + st);
+            //  /   System.out.println("before " + st);
+                 func(st, part);
+                // Syst/em.out.println("after " + st);
             }
         }
         String ss="";
