@@ -8,6 +8,7 @@ Submitted Solutions
 | ------- |
 | [0018-4sum](https://github.com/Suresh0202/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0162-find-peak-element](https://github.com/Suresh0202/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Suresh0202/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Suresh0202/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -157,6 +158,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Suresh0202/LeetCode/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/Suresh0202/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
