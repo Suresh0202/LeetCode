@@ -235,6 +235,7 @@ Submitted Solutions
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/Suresh0202/LeetCode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Suresh0202/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Suresh0202/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Suresh0202/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
