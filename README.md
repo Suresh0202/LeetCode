@@ -36,6 +36,7 @@ Submitted Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suresh0202/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -48,6 +49,7 @@ Submitted Solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suresh0202/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/Suresh0202/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -180,6 +182,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Suresh0202/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
