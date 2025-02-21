@@ -245,6 +245,7 @@ Submitted Solutions
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Suresh0202/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Suresh0202/LeetCode/tree/master/0176-second-highest-salary) |
 | [0610-triangle-judgement](https://github.com/Suresh0202/LeetCode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Suresh0202/LeetCode/tree/master/0620-not-boring-movies) |
