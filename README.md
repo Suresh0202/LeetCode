@@ -245,6 +245,7 @@ Submitted Solutions
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Suresh0202/LeetCode/tree/master/0176-second-highest-salary) |
 | [0610-triangle-judgement](https://github.com/Suresh0202/LeetCode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Suresh0202/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Suresh0202/LeetCode/tree/master/1153-product-sales-analysis-i) |
