@@ -17,6 +17,7 @@ Submitted Solutions
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
 | [0792-binary-search](https://github.com/Suresh0202/LeetCode/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Suresh0202/LeetCode/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -81,6 +82,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Suresh0202/LeetCode/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
