@@ -258,6 +258,7 @@ Submitted Solutions
 | [1153-product-sales-analysis-i](https://github.com/Suresh0202/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1390-average-selling-price](https://github.com/Suresh0202/LeetCode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Suresh0202/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1670-patients-with-a-condition](https://github.com/Suresh0202/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Suresh0202/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Suresh0202/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Suresh0202/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
