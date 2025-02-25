@@ -21,6 +21,7 @@ Submitted Solutions
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Suresh0202/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -100,6 +101,7 @@ Submitted Solutions
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Submitted Solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suresh0202/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Tree
 |  |
@@ -272,6 +275,7 @@ Submitted Solutions
 | [0204-count-primes](https://github.com/Suresh0202/LeetCode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Data Stream
 |  |
 | ------- |
