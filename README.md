@@ -254,6 +254,7 @@ Submitted Solutions
 | [0176-second-highest-salary](https://github.com/Suresh0202/LeetCode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/Suresh0202/LeetCode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/Suresh0202/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Suresh0202/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/Suresh0202/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/Suresh0202/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Suresh0202/LeetCode/tree/master/0619-biggest-single-number) |
