@@ -266,6 +266,7 @@ Submitted Solutions
 | [1179-game-play-analysis-i](https://github.com/Suresh0202/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1390-average-selling-price](https://github.com/Suresh0202/LeetCode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Suresh0202/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1664-find-users-with-valid-e-mails](https://github.com/Suresh0202/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Suresh0202/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Suresh0202/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/Suresh0202/LeetCode/tree/master/1811-fix-names-in-a-table) |
