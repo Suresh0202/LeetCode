@@ -257,6 +257,7 @@ Submitted Solutions
 | [0178-rank-scores](https://github.com/Suresh0202/LeetCode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Suresh0202/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/Suresh0202/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/Suresh0202/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Suresh0202/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Suresh0202/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/Suresh0202/LeetCode/tree/master/0596-classes-more-than-5-students) |
