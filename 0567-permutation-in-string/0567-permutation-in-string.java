@@ -2,10 +2,10 @@ class Solution {
     boolean func(StringBuilder sb,int ch2[])
     {
         int ch1[]=new int [26];
-        String s=sb.toString();
+        // String s=sb.toString();
         for(int i=0;i<sb.length();i++)
         {
-                ch1[s.charAt(i)-'a']++;
+                ch1[sb.charAt(i)-'a']++;
         }
         // Sys/tem.out.println(Arrays.toString(ch1));
         // System.out.println(Arrays.toString(ch2));
