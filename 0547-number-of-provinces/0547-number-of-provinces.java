@@ -27,7 +27,6 @@ class Solution {
                 }
             }
         }
-        System.out.println(adjlist);
         int vis[]=new int[adjlist.size()];
         int c=0;
         for(int i=0;i<adj.length;i++)
@@ -38,6 +37,8 @@ class Solution {
                 bfs(vis,adjlist,i);
             }
         }
+        
+        //  System.out.println(Arrays.toString(vis));
         return c;
     }
 }
