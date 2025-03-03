@@ -1,15 +1,16 @@
 class Solution {
-    public void bfs(int vis[],List<List<Integer>>ajd,int node)
+    public void dfs(int vis[],List<List<Integer>>ajd,int node)
     {
         vis[node]=1;
         for(int i:ajd.get(node))
         {
             if(vis[i]==0)
             {
-                bfs(vis,ajd,i);
+                dfs(vis,ajd,i);
             }
         }
     }
+    
     public int findCircleNum(int[][] adj) {
         List<List<Integer>>adjlist=new ArrayList<>();
         for(int i=0;i<adj.length;i++)
@@ -29,16 +30,15 @@ class Solution {
         }
         int vis[]=new int[adjlist.size()];
         int c=0;
-        for(int i=0;i<adj.length;i++)
+        for(int i=0;i<vis.length;i++)
         {
             if(vis[i] == 0)
             {
                 c++;
-                bfs(vis,adjlist,i);
+                dfs(vis,adjlist,i);
             }
         }
-        
-        //  System.out.println(Arrays.toString(vis));
         return c;
+      
     }
 }
