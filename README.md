@@ -26,6 +26,7 @@ Submitted Solutions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Suresh0202/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Suresh0202/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suresh0202/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -77,6 +78,7 @@ Submitted Solutions
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Suresh0202/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Suresh0202/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
@@ -259,6 +261,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Suresh0202/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suresh0202/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Database
 |  |
