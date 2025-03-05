@@ -23,6 +23,7 @@ Submitted Solutions
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Suresh0202/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Suresh0202/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -50,6 +51,7 @@ Submitted Solutions
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Suresh0202/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -149,6 +151,7 @@ Submitted Solutions
 | [0238-product-of-array-except-self](https://github.com/Suresh0202/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Tree
 |  |
@@ -201,6 +204,7 @@ Submitted Solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Suresh0202/LeetCode/tree/master/0792-binary-search) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Queue
 |  |
 | ------- |
@@ -211,6 +215,7 @@ Submitted Solutions
 | [0239-sliding-window-maximum](https://github.com/Suresh0202/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
