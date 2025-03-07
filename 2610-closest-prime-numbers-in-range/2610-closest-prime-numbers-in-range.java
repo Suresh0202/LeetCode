@@ -28,8 +28,6 @@ class Solution {
         int m=Integer.MAX_VALUE;
         ans[0]=-1;
         ans[1]=-1;
-        int ans1=Integer.MAX_VALUE;
-        int ans2=Integer.MAX_VALUE;
         for(int i=1;i<ar.size();i++)
         {
             int x=ar.get(i);
