@@ -24,7 +24,7 @@ class Solution {
                 ar.add(i);
             }
         }
-         System.out.println(ar);
+        //  System.out.println(ar);
         int m=Integer.MAX_VALUE;
         ans[0]=-1;
         ans[1]=-1;
