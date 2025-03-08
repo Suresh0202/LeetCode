@@ -77,6 +77,7 @@ Submitted Solutions
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suresh0202/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Suresh0202/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
@@ -239,6 +240,7 @@ Submitted Solutions
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Suresh0202/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suresh0202/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
