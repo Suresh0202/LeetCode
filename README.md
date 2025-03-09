@@ -76,6 +76,7 @@ Submitted Solutions
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1508-longest-happy-prefix](https://github.com/Suresh0202/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suresh0202/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -259,6 +260,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Suresh0202/LeetCode/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/Suresh0202/LeetCode/tree/master/1508-longest-happy-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -379,4 +381,12 @@ Submitted Solutions
 | ------- |
 | [0547-number-of-provinces](https://github.com/Suresh0202/LeetCode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Suresh0202/LeetCode/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Suresh0202/LeetCode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
