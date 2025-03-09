@@ -44,6 +44,7 @@ Submitted Solutions
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suresh0202/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Suresh0202/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3483-alternating-groups-ii](https://github.com/Suresh0202/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -241,6 +242,7 @@ Submitted Solutions
 | [0713-subarray-product-less-than-k](https://github.com/Suresh0202/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suresh0202/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Suresh0202/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
