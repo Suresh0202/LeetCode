@@ -26,6 +26,7 @@ Submitted Solutions
 | [0792-binary-search](https://github.com/Suresh0202/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Suresh0202/LeetCode/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
+| [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -193,6 +194,7 @@ Submitted Solutions
 | [0547-number-of-provinces](https://github.com/Suresh0202/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Suresh0202/LeetCode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -205,6 +207,7 @@ Submitted Solutions
 | [0547-number-of-provinces](https://github.com/Suresh0202/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Suresh0202/LeetCode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -357,6 +360,7 @@ Submitted Solutions
 | [0200-number-of-islands](https://github.com/Suresh0202/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Suresh0202/LeetCode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
@@ -378,6 +382,7 @@ Submitted Solutions
 | [0200-number-of-islands](https://github.com/Suresh0202/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suresh0202/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
