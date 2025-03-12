@@ -17,20 +17,20 @@ class Solution {
         while(!(qu.isEmpty()))
         {
             String word=qu.peek().first;
-            int ans=qu.peek().second;
+            int step=qu.peek().second;
             qu.remove();
-            if(word.equals(endWord))return ans;
+            if(word.equals(endWord))return step;
             for(int i=0;i<word.length();i++)
             {
                 for(char ch='a';ch<='z';ch++)
                 {
-                    char chhar[]=word.toCharArray();
-                    chhar[i]=ch;
-                    String ns=new String(chhar);
-                    if(st.contains(ns))
+                    char chr[]=word.toCharArray();
+                    chr[i]=ch;
+                    String nes=new String(chr);
+                    if(st.contains(nes))
                     {
-                        st.remove(ns);
-                        qu.add(new Pair(ns,ans+1));
+                        qu.add(new Pair(nes,step+1));
+                        st.remove(nes);
                     }
                 }
             }
