@@ -39,6 +39,7 @@ Submitted Solutions
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suresh0202/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suresh0202/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Suresh0202/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Suresh0202/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -124,6 +125,7 @@ Submitted Solutions
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suresh0202/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Suresh0202/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
@@ -236,6 +238,7 @@ Submitted Solutions
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Suresh0202/LeetCode/tree/master/0792-binary-search) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suresh0202/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
 | ------- |
