@@ -12,6 +12,7 @@ Submitted Solutions
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0130-surrounded-regions](https://github.com/Suresh0202/LeetCode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Suresh0202/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Suresh0202/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Suresh0202/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -54,6 +55,7 @@ Submitted Solutions
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Suresh0202/LeetCode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/Suresh0202/LeetCode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
@@ -123,6 +125,7 @@ Submitted Solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -156,6 +159,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Suresh0202/LeetCode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
@@ -279,6 +283,7 @@ Submitted Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Suresh0202/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
