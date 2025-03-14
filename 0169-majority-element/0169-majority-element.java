@@ -1,24 +1,12 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int c = 0, el = 0,c1=0;
-        for (int i = 0; i < nums.length; i++) {
-            if (c == 0) {
-                c = 1;
-                el = nums[i];
-            } else if (nums[i] == el) {
-                c++;
-            } else {
-                c--;
+        int count = 0, candidate = 0;
+        for (int num : nums) {
+            if (count == 0) {
+                candidate = num;
             }
+            count += (num == candidate) ? 1 : -1;
         }
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == el) {
-                c1++;
-            }
-        }
-        if (c1 > (nums.length) / 2) {
-            return el;
-        }
-        return -1;
+        return candidate; // Guaranteed to be majority
     }
 }
