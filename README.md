@@ -6,6 +6,7 @@ Submitted Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suresh0202/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Suresh0202/LeetCode/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Suresh0202/LeetCode/tree/master/0041-first-missing-positive) |
@@ -51,6 +52,7 @@ Submitted Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Suresh0202/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suresh0202/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Suresh0202/LeetCode/tree/master/0041-first-missing-positive) |
