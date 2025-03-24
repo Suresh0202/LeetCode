@@ -50,6 +50,7 @@ Submitted Solutions
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suresh0202/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Suresh0202/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Suresh0202/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Submitted Solutions
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Suresh0202/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Suresh0202/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
 ## String
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Submitted Solutions
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +227,7 @@ Submitted Solutions
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -401,11 +405,13 @@ Submitted Solutions
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Suresh0202/LeetCode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
 ## Rolling Hash
 |  |
 | ------- |
