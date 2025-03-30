@@ -30,14 +30,14 @@ class Solution {
         // System.out.println(s1);
         // System.out.println(t1);
         int m=0;
-        if(isPailn(s))
-        {
-            m=Math.max(m,s.length());
-        }
-        if(isPailn(t))
-        {
-            m=Math.max(m,t.length());
-        }
+        // if(isPailn(s))
+        // {
+        //     m=Math.max(m,s.length());
+        // }
+        // if(isPailn(t))
+        // {
+        //     m=Math.max(m,t.length());
+        // }
         for(int i=0;i<s1.size();i++)
         {
             for(int j=0;j<t1.size();j++)
