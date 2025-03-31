@@ -23,6 +23,7 @@ Submitted Solutions
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/Suresh0202/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
+| [0525-contiguous-array](https://github.com/Suresh0202/LeetCode/tree/master/0525-contiguous-array) |
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Suresh0202/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -63,6 +64,7 @@ Submitted Solutions
 | [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/Suresh0202/LeetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -181,6 +183,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suresh0202/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Suresh0202/LeetCode/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Suresh0202/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
