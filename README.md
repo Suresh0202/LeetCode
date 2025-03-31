@@ -23,6 +23,7 @@ Submitted Solutions
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/Suresh0202/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/Suresh0202/LeetCode/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Suresh0202/LeetCode/tree/master/0525-contiguous-array) |
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -255,6 +256,7 @@ Submitted Solutions
 | [0173-binary-search-tree-iterator](https://github.com/Suresh0202/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0493-reverse-pairs](https://github.com/Suresh0202/LeetCode/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Suresh0202/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -302,6 +304,7 @@ Submitted Solutions
 | [0191-number-of-1-bits](https://github.com/Suresh0202/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Suresh0202/LeetCode/tree/master/0493-reverse-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -430,4 +433,20 @@ Submitted Solutions
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Suresh0202/LeetCode/tree/master/1508-longest-happy-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suresh0202/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suresh0202/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suresh0202/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Suresh0202/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
