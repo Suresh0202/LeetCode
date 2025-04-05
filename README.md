@@ -42,6 +42,7 @@ Submitted Solutions
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Suresh0202/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Suresh0202/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suresh0202/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -162,6 +163,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Suresh0202/LeetCode/tree/master/0191-number-of-1-bits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suresh0202/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Suresh0202/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -184,6 +186,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Suresh0202/LeetCode/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Prefix Sum
 |  |
@@ -324,6 +327,7 @@ Submitted Solutions
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Bucket Sort
 |  |
@@ -386,6 +390,7 @@ Submitted Solutions
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suresh0202/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Suresh0202/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Data Stream
@@ -463,4 +468,8 @@ Submitted Solutions
 | ------- |
 | [0207-course-schedule](https://github.com/Suresh0202/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Suresh0202/LeetCode/tree/master/0210-course-schedule-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
