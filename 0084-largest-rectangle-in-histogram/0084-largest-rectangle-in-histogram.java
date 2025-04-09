@@ -1,53 +1,47 @@
 class Solution {
-    public static int[] findnse(int arr[])
-    {
-        int n=arr.length;
-        int ans[]=new int[n];
+    public int largestRectangleArea(int[] hh) {
+        int n=hh.length;
+        int nse[]=new int[n];
         Stack<Integer>st=new Stack<>();
         for(int i=n-1;i>=0;i--)
         {
-            while(!st.empty() && arr[st.peek()]>=arr[i])
+            while(!st.isEmpty() && hh[st.peek()]>=hh[i])
             {
                 st.pop();
             }
-            ans[i]=st.empty()?n:st.peek();
+            if(!st.isEmpty())
+            {
+                nse[i]=st.peek();
+            }else
+            {
+                nse[i]=n;
+            }
             st.push(i);
-            
         }
-        return ans;
-    }
-     public static int[] findpse(int arr[])
-    {
-        int n=arr.length;
-        int ans[]=new int[n];
-        Stack<Integer>st=new Stack<>();
+        int lnse[]=new int[n];
+        Stack<Integer>st1=new Stack<>();
         for(int i=0;i<n;i++)
         {
-            while(!st.empty() && arr[st.peek()]>=arr[i])
+            while(!st1.isEmpty() && hh[st1.peek()]>=hh[i])
             {
-                st.pop();
+                st1.pop();
             }
-            ans[i]=st.empty()?-1:st.peek();
-            st.push(i);
-            
+            if(!st1.isEmpty())
+            {
+                lnse[i]=st1.peek();
+            }else
+            {
+                lnse[i]=-1;
+            }
+            st1.push(i);
         }
+        int ans=0;
+        for(int i=0;i<n;i++)
+        {
+            int x=(nse[i]-lnse[i]-1)*hh[i];
+            ans=Math.max(ans,x);
+        }
+        System.out.println(Arrays.toString(lnse));
         return ans;
-    }
-    public int largestRectangleArea(int[] arr) {
-        if(arr.length==1)
-        {
-            return arr[0];
-        }
-        int nse[]=new int[arr.length];
-        nse=findnse(arr);
-        int pse[]=new int[arr.length];
-        pse=findpse(arr);
-        int max=0;
-        for(int i=0;i<arr.length;i++)
-        {
-            int area=arr[i]*(nse[i]-pse[i]-1);
-            max=Math.max(max,area);
-        }
-        return max;
     }
 }
