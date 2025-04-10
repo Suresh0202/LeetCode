@@ -158,6 +158,7 @@ Submitted Solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -394,6 +395,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Suresh0202/LeetCode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Suresh0202/LeetCode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
@@ -431,6 +433,7 @@ Submitted Solutions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
