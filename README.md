@@ -69,6 +69,7 @@ Submitted Solutions
 | [0146-lru-cache](https://github.com/Suresh0202/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Suresh0202/LeetCode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Suresh0202/LeetCode/tree/master/0525-contiguous-array) |
@@ -93,6 +94,7 @@ Submitted Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suresh0202/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Suresh0202/LeetCode/tree/master/0127-word-ladder) |
+| [0383-ransom-note](https://github.com/Suresh0202/LeetCode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Suresh0202/LeetCode/tree/master/0812-rotate-string) |
@@ -145,6 +147,7 @@ Submitted Solutions
 | ------- |
 | [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Suresh0202/LeetCode/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
