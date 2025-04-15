@@ -76,6 +76,7 @@ Submitted Solutions
 | [0525-contiguous-array](https://github.com/Suresh0202/LeetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -192,6 +193,7 @@ Submitted Solutions
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Enumeration
@@ -221,6 +223,7 @@ Submitted Solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -238,6 +241,7 @@ Submitted Solutions
 | [0547-number-of-provinces](https://github.com/Suresh0202/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Suresh0202/LeetCode/tree/master/0733-flood-fill) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -255,6 +259,7 @@ Submitted Solutions
 | [0547-number-of-provinces](https://github.com/Suresh0202/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Suresh0202/LeetCode/tree/master/0733-flood-fill) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -269,6 +274,7 @@ Submitted Solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
