@@ -17,6 +17,7 @@ Submitted Solutions
 | [0130-surrounded-regions](https://github.com/Suresh0202/LeetCode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Suresh0202/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Suresh0202/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Suresh0202/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Suresh0202/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -162,6 +163,7 @@ Submitted Solutions
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/Suresh0202/LeetCode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Suresh0202/LeetCode/tree/master/0403-frog-jump) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
