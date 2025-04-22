@@ -1,44 +1,43 @@
 class Solution {
-    public void dfs(int vis[],List<List<Integer>>ajd,int node)
+    public static void dfs(List<List<Integer>>adj,int vis[],int x)
     {
-        vis[node]=1;
-        for(int i:ajd.get(node))
+        vis[x]=1;
+        for(int i:adj.get(x))
         {
             if(vis[i]==0)
             {
-                dfs(vis,ajd,i);
+                vis[i]=1;
+                dfs(adj,vis,i);
             }
         }
     }
-    
-    public int findCircleNum(int[][] adj) {
-        List<List<Integer>>adjlist=new ArrayList<>();
-        for(int i=0;i<adj.length;i++)
-        {
-            adjlist.add(new ArrayList<>());
-        }
-        for(int i=0;i<adj.length;i++)
-        {
-            for(int j=0;j<adj.length;j++)
+    public int findCircleNum(int[][] isc) {
+            List<List<Integer>>adj=new ArrayList<>();
+            int n=isc.length;
+            for(int i=0;i<isc.length;i++)
             {
-                if( adj[i][j] == 1 & i!=j)
+                adj.add(new ArrayList<>());
+            }
+            for(int i=0;i<n;i++)
+            {
+                for(int j=0;j<n;j++)
                 {
-                    adjlist.get(i).add(j);
-                    adjlist.get(j).add(j);
+                    if(i!=j && isc[i][j]==1)
+                    {
+                    adj.get(i).add(j);
+                    adj.get(j).add(j);
+                    }
                 }
             }
-        }
-        int vis[]=new int[adjlist.size()];
-        int c=0;
-        for(int i=0;i<vis.length;i++)
-        {
-            if(vis[i] == 0)
-            {
-                c++;
-                dfs(vis,adjlist,i);
+            int vis[]=new int[n];
+            int cnt=0;
+            for(int i=0;i<n;i++){
+                if(vis[i]==0)
+                {
+                    cnt++;
+                    dfs(adj,vis,i);
+                }
             }
-        }
-        return c;
-      
+            return cnt;
     }
 }
