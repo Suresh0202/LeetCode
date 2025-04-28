@@ -170,6 +170,7 @@ Submitted Solutions
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/Suresh0202/LeetCode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Suresh0202/LeetCode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/Suresh0202/LeetCode/tree/master/0542-01-matrix) |
@@ -226,6 +227,7 @@ Submitted Solutions
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Suresh0202/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Suresh0202/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -280,6 +282,7 @@ Submitted Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Suresh0202/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Suresh0202/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -292,6 +295,7 @@ Submitted Solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Suresh0202/LeetCode/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/Suresh0202/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -419,6 +423,7 @@ Submitted Solutions
 | [0007-reverse-integer](https://github.com/Suresh0202/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Suresh0202/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/Suresh0202/LeetCode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
