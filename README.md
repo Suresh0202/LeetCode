@@ -39,6 +39,7 @@ Submitted Solutions
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Suresh0202/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suresh0202/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Suresh0202/LeetCode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Suresh0202/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Suresh0202/LeetCode/tree/master/0890-lemonade-change) |
@@ -154,6 +155,7 @@ Submitted Solutions
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suresh0202/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suresh0202/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Suresh0202/LeetCode/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -185,6 +187,7 @@ Submitted Solutions
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suresh0202/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0403-frog-jump](https://github.com/Suresh0202/LeetCode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/Suresh0202/LeetCode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suresh0202/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Suresh0202/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
