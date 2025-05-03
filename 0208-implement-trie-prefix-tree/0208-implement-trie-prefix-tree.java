@@ -2,18 +2,15 @@ class Trie {
     class Node{
         Node links[]=new Node[26];
         boolean flag=false;
-
+        
+        // implementation of contaninskey --return true if node contains else false;
         boolean containsKey(char ch)
         {
-            if(links[ch-'a'] != null)
-            {
-                return true;
-            }
-            return false;
+            return links[ch-'a']!=null;
         }
-        void put(char ch,Node root)
+        void put(char ch,Node nde)
         {
-            links[ch-'a']=root;
+            links[ch-'a']=nde;
         }
         Node get(char ch)
         {
@@ -28,7 +25,8 @@ class Trie {
             return flag;
         }
     }
-    private Node root;
+
+    Node root;
     public Trie() {
         root=new Node();
     }
@@ -56,11 +54,7 @@ class Trie {
             }
             node=node.get(word.charAt(i));
         }
-        if(node.isEnd())
-        {
-            return true;
-        }
-        return false;
+        return node.isEnd();
     }
     
     public boolean startsWith(String prefix) {
@@ -72,10 +66,10 @@ class Trie {
                 return false;
             }
             node=node.get(prefix.charAt(i));
+
         }
         return true;
     }
-
 }
 
 /**
