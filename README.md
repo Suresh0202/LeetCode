@@ -79,6 +79,7 @@ Submitted Solutions
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Suresh0202/LeetCode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/Suresh0202/LeetCode/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/Suresh0202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Suresh0202/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suresh0202/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -129,6 +130,7 @@ Submitted Solutions
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Suresh0202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Suresh0202/LeetCode/tree/master/0146-lru-cache) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -136,6 +138,7 @@ Submitted Solutions
 | ------- |
 | [0018-4sum](https://github.com/Suresh0202/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Suresh0202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
