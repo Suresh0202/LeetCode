@@ -198,6 +198,7 @@ Submitted Solutions
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Suresh0202/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Suresh0202/LeetCode/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suresh0202/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0338-counting-bits](https://github.com/Suresh0202/LeetCode/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/Suresh0202/LeetCode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/Suresh0202/LeetCode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suresh0202/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -216,6 +217,7 @@ Submitted Solutions
 | [0190-reverse-bits](https://github.com/Suresh0202/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Suresh0202/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Suresh0202/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Suresh0202/LeetCode/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suresh0202/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
