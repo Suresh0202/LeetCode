@@ -18,6 +18,7 @@ Submitted Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suresh0202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suresh0202/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Suresh0202/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Suresh0202/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Suresh0202/LeetCode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/Suresh0202/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@ Submitted Solutions
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Suresh0202/LeetCode/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/Suresh0202/LeetCode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Suresh0202/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Suresh0202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Suresh0202/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
@@ -520,6 +522,7 @@ Submitted Solutions
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Suresh0202/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Suresh0202/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Suresh0202/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suresh0202/LeetCode/tree/master/0547-number-of-provinces) |
