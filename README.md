@@ -12,6 +12,7 @@ Submitted Solutions
 | [0041-first-missing-positive](https://github.com/Suresh0202/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/Suresh0202/LeetCode/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suresh0202/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suresh0202/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +118,7 @@ Submitted Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suresh0202/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Suresh0202/LeetCode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suresh0202/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Suresh0202/LeetCode/tree/master/0242-valid-anagram) |
@@ -276,6 +278,7 @@ Submitted Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suresh0202/LeetCode/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Suresh0202/LeetCode/tree/master/0130-surrounded-regions) |
@@ -405,6 +408,7 @@ Submitted Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suresh0202/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -486,6 +490,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Suresh0202/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Suresh0202/LeetCode/tree/master/0200-number-of-islands) |
