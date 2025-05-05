@@ -132,6 +132,7 @@ Submitted Solutions
 | [0242-valid-anagram](https://github.com/Suresh0202/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Suresh0202/LeetCode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Suresh0202/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
@@ -216,6 +217,7 @@ Submitted Solutions
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suresh0202/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/Suresh0202/LeetCode/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/Suresh0202/LeetCode/tree/master/0403-frog-jump) |
+| [0516-longest-palindromic-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Suresh0202/LeetCode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suresh0202/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
