@@ -210,6 +210,7 @@ Submitted Solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Suresh0202/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -495,6 +496,7 @@ Submitted Solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/Suresh0202/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Suresh0202/LeetCode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/Suresh0202/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/Suresh0202/LeetCode/tree/master/0204-count-primes) |
@@ -597,6 +599,7 @@ Submitted Solutions
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Suresh0202/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Doubly-Linked List
 |  |
