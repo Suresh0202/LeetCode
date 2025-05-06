@@ -1,11 +1,19 @@
 class Solution {
-    public int[] buildArray(int[] nums) {
-        int ans[]=new int[nums.length];
-        for(int i=0;i<nums.length;i++)
+    public  void func(int nums[],int idx)
+    {
+        if(idx < nums.length)
         {
-            ans[i]=nums[nums[i]];
+            int temp=nums[idx];
+            int res=nums[temp];
+            func(nums,idx+1);
+            nums[idx]=res;
+
         }
-        return ans;
+    }
+    public int[] buildArray(int[] nums) {
+        // int ans[]=new int[nums.length];
+        func(nums,0);
+        return nums;
  
  
     }
