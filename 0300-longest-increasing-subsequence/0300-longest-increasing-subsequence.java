@@ -1,28 +1,45 @@
 class Solution {
-    public int func(int nums[],int idx,int n,int prev,int dp[][])
+    public int func(List<Integer>arr,int low,int high,int tar)
     {
-        if(idx == n)
+        int ans=arr.size()-1;
+        while(low<=high)
         {
-            return 0;
+            int mid=(low+high)/2;
+            if(arr.get(mid) <= tar)
+            {
+                 low=mid+1;                
+            }else
+            {
+               ans=mid;
+               high=mid-1;
+            }
         }
-        int pick=0;
-        if(dp[idx][prev+1]!=-1)
-        {
-            return dp[idx][prev+1];
-        }
-        if(prev == -1 || nums[idx] > nums[prev])
-        {
-            pick=1+func(nums,idx+1,n,idx,dp);
-        }
-        int notpick=func(nums,idx+1,n,prev,dp);
-        return dp[idx][prev+1]=Math.max(pick,notpick);
-
+        return ans;
     }
     public int lengthOfLIS(int[] nums) {
+        List<Integer>arr=new ArrayList<>();
         int n=nums.length;
-        int dp[][]=new int[n][n];
-        for(int i=0;i<n;i++)Arrays.fill(dp[i],-1);
-        int ans=func(nums,0,nums.length,-1,dp);
-        return ans;
+        for(int i=0;i<n;i++)
+        {
+            int ele=nums[i];
+            if(arr.isEmpty())
+            {
+                arr.add(ele);
+            }else
+            {
+                int prev=arr.get(arr.size()-1);
+                if(prev < nums[i])
+                {
+                    arr.add(nums[i]);
+                }else
+                {
+                    if(!arr.contains(nums[i])){
+                    int upper=func(arr,0,arr.size()-1,nums[i]);
+                    arr.set(upper,nums[i]);
+                    }
+                }
+            }
+        }
+        return arr.size();
     }
 }
