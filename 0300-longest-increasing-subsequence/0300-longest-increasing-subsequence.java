@@ -5,13 +5,14 @@ class Solution {
         while(low<=high)
         {
             int mid=(low+high)/2;
-            if(arr.get(mid) <= tar)
+            if(arr.get(mid) >= tar)
             {
-                 low=mid+1;                
+                 ans=mid;
+               high=mid-1;
+                              
             }else
             {
-               ans=mid;
-               high=mid-1;
+              low=mid+1;   
             }
         }
         return ans;
@@ -33,10 +34,10 @@ class Solution {
                     arr.add(nums[i]);
                 }else
                 {
-                    if(!arr.contains(nums[i])){
+                    // if(!arr.contains(nums[i])){
                     int upper=func(arr,0,arr.size()-1,nums[i]);
                     arr.set(upper,nums[i]);
-                    }
+                    // }
                 }
             }
         }
