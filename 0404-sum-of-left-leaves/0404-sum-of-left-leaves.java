@@ -14,37 +14,22 @@
  * }
  */
 class Solution {
-    public int sumOfLeftLeaves(TreeNode root) {
-        Queue<TreeNode>qu=new LinkedList<>();
-        int sum=0;
-        qu.add(root);
-        while(!qu.isEmpty())
+    public void pre(TreeNode root,int ans[],int Nowleft)
+    {
+        if(root == null)
         {
-            int len=qu.size();
-            List<Integer>ans=new ArrayList<>();
-            for(int i=0;i<len;i++)
-            {
-                if(qu.peek().left != null)
-                {
-                    if(qu.peek().left.left == null && qu.peek().left.right == null)
-                    {
-                        sum+=qu.peek().left.val;
-                    }
-                    qu.add(qu.peek().left);
-                     
-                }
-
-                if(qu.peek().right != null)
-                {
-                    qu.add(qu.peek().right);
-                     ans.add(qu.peek().val);
-                }
-               ans.add(qu.poll().val);
-            }
-        System.out.println(ans);
-            // qu.poll();
-
+            return;
         }
-        return sum;
+        if(root.left == null && root.right == null && Nowleft==1)
+        {
+            ans[0]+=root.val;
+        }
+        pre(root.left,ans,1);
+        pre(root.right,ans,0);
+    }
+    public int sumOfLeftLeaves(TreeNode root) {
+        int ans[]={0};
+        pre(root,ans,0);
+        return ans[0];
     }
 }
