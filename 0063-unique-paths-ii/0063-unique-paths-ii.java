@@ -1,37 +1,29 @@
 class Solution {
-    public int func(int arr[][],int i,int j,int n,int m,int dp[][])
+    public int func(int i,int j,int dp[][],int arr[][])
     {
-        if(i>=n || j>=m || arr[i][j]==1)
-        {
+        if(i<0 || j<0 || arr[i][j] == 1){
             return 0;
         }
-        if(i == n-1 && j == m-1)
+        if(i ==0 && j == 0)
         {
             return 1;
         }
-        if(dp[i][j]!=-1)
+        if(dp[i][j] != -1)
         {
             return dp[i][j];
         }
-        int pick=0;
-        int npick=0;
-            if( i+1<n && j<m && arr[i+1][j] == 0)
-            {
-            pick=func(arr,i+1,j,n,m,dp);
-            }
-            if(i<n && j+1 < m && arr[i][j+1]==0)
-            {
-            npick=func(arr,i,j+1,n,m,dp);
-            }
-
-        return dp[i][j]=pick+npick;
+        int left=func(i-1,j,dp,arr);
+        int right=func(i,j-1,dp,arr);
+        return dp[i][j]=left+right;
     }
-    public int uniquePathsWithObstacles(int[][] arr) {
-        int dp[][]=new int[arr.length][arr[0].length];
-        for(int i=0;i<arr.length;i++)
+    public int uniquePathsWithObstacles(int[][] obs) {
+        int n=obs.length;
+        int m=obs[0].length;
+        int dp[][]=new int[n][m];
+        for(int i=0;i<n;i++)
         {
             Arrays.fill(dp[i],-1);
         }
-        return func(arr,0,0,arr.length,arr[0].length,dp);
+        return func(n-1,m-1,dp,obs);
     }
 }
