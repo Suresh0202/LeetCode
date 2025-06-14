@@ -53,7 +53,7 @@ class Solution {
             bs1+=ch1[i];
            }
            int smq=Integer.parseInt(bs1);
-           System.out.println(bs1+"  "+bs);
+        //    System.out.println(bs1+"  "+bs);
            return big-smq;
            
     }
