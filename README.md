@@ -212,6 +212,7 @@ Submitted Solutions
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Suresh0202/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Suresh0202/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
@@ -554,6 +555,7 @@ Submitted Solutions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suresh0202/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Suresh0202/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Suresh0202/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Data Stream
 |  |
