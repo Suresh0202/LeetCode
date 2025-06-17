@@ -153,6 +153,7 @@ Submitted Solutions
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Suresh0202/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0812-rotate-string](https://github.com/Suresh0202/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -258,6 +259,7 @@ Submitted Solutions
 | [0403-frog-jump](https://github.com/Suresh0202/LeetCode/tree/master/0403-frog-jump) |
 | [0516-longest-palindromic-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Suresh0202/LeetCode/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Suresh0202/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suresh0202/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0806-domino-and-tromino-tiling](https://github.com/Suresh0202/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
