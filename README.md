@@ -142,6 +142,7 @@ Submitted Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suresh0202/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Suresh0202/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Suresh0202/LeetCode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Suresh0202/LeetCode/tree/master/0127-word-ladder) |
@@ -237,6 +238,7 @@ Submitted Solutions
 | [0063-unique-paths-ii](https://github.com/Suresh0202/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suresh0202/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Suresh0202/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Suresh0202/LeetCode/tree/master/0097-interleaving-string) |
