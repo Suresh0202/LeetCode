@@ -1,32 +1,33 @@
 class Solution {
-    public void dfs(char image[][],int sr,int sc,int arr[][])
+    public void dfs(char grid[][],int vis[][],int sr,int sc,int n,int m)
     {
-          if(sc<0 || sr<0 || sr>=image.length || sc>=image[0].length || image[sr][sc]=='0' || arr[sr][sc]==-1)
+        if(sr<0 || sc<0 || sr>=n || sc>=m || grid[sr][sc] == '0' || vis[sr][sc] == -1)
         {
-            return;
+            return ;
         }
-        if (image[sr][sc] == '1') {
-            arr[sr][sc]=-1;
-            image[sr][sc] = '0';
-        dfs(image,sr-1,sc,arr);
-        dfs(image,sr,sc+1,arr);
-        dfs(image,sr+1,sc,arr);
-        dfs(image,sr,sc-1,arr);
-        }
+        vis[sr][sc]=-1;
+        grid[sr][sc]='0';
+        dfs(grid,vis,sr+1,sc,n,m);
+        dfs(grid,vis,sr-1,sc,n,m);
+        dfs(grid,vis,sr,sc+1,n,m);
+        dfs(grid,vis,sr,sc-1,n,m);
+        
     }
     public int numIslands(char[][] grid) {
+        int n=grid.length;
+        int m=grid[0].length;
+        int vis[][]=new int[n][m];
         int ans=0;
-        int arr[][]=new int[grid.length][grid[0].length];
-        for(int i=0;i<grid.length;i++)
+        for(int i=0;i<n;i++)
         {
-            for(int j=0;j<grid[0].length;j++)
+            for(int j=0;j<m;j++)
             {
-                if(grid[i][j]=='1')
+                if(grid[i][j] == '1')
                 {
-                    if(arr[i][j]!=1)
+                    if(vis[i][j] != -1)
                     {
                         ans++;
-                        dfs(grid,i,j,arr);
+                        dfs(grid,vis,i,j,n,m);
                     }
                 }
             }
