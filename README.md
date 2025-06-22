@@ -13,6 +13,7 @@ Submitted Solutions
 | [0039-combination-sum](https://github.com/Suresh0202/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suresh0202/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Suresh0202/LeetCode/tree/master/0046-permutations) |
 | [0057-insert-interval](https://github.com/Suresh0202/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Suresh0202/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suresh0202/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -493,6 +494,7 @@ Submitted Solutions
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Suresh0202/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Suresh0202/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0491-non-decreasing-subsequences](https://github.com/Suresh0202/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
