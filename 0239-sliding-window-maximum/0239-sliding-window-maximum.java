@@ -1,26 +1,29 @@
 class Solution {
-    public int[] maxSlidingWindow(int[] nums, int k) {
-        PriorityQueue<Integer> p=new PriorityQueue<>((a,b)->{
-            int diff=nums[b]-nums[a];
-            return diff;
-        }) ; 
-        int n=nums.length;
-        int ans[]=new int[n-k+1];
-        for(int i=0;i<k;i++)
+    public int[] maxSlidingWindow(int[] arr, int k) {
+        int n=arr.length;
+       int ans[]=new int[n-k+1];
+       TreeMap<Integer,Integer>map=new TreeMap<>();
+       int i=0;
+       int j=0;
+       while(j<n)
+       {
+        map.put(arr[j],map.getOrDefault(arr[j],0)+1);
+        if((j-i+1)>=k)
         {
-            p.add(i);
-        }
-        ans[0]=nums[p.peek()];
-        for(int i=k;i<n;i++)
-        {
-            p.add(i);
-            while(p.peek()<=i-k)
+            ans[i]=map.lastKey();
+            if(map.get(arr[i])>1)
             {
-                p.poll();
+                map.put(arr[i],map.get(arr[i])-1);
+            }else
+            {
+                map.remove(arr[i]);
             }
-            ans[i-k+1]=nums[p.peek()];
+            i++;
         }
-        return ans;
+        j++;
+       }
+       return ans;
 
+        // return ans;
     }
 }
