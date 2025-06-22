@@ -150,6 +150,7 @@ Submitted Solutions
 | [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Suresh0202/LeetCode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Suresh0202/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Suresh0202/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Suresh0202/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suresh0202/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Suresh0202/LeetCode/tree/master/0242-valid-anagram) |
@@ -255,6 +256,7 @@ Submitted Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suresh0202/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Suresh0202/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suresh0202/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Suresh0202/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Suresh0202/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Suresh0202/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Suresh0202/LeetCode/tree/master/0198-house-robber) |
@@ -496,6 +498,7 @@ Submitted Solutions
 | [0039-combination-sum](https://github.com/Suresh0202/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Suresh0202/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Suresh0202/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Suresh0202/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
