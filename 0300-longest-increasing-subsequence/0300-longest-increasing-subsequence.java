@@ -5,14 +5,13 @@ class Solution {
         while(low<=high)
         {
             int mid=(low+high)/2;
-            if(arr.get(mid) >= tar)
+            if(arr.get(mid) <= tar)
             {
-                 ans=mid;
-               high=mid-1;
-                              
+                 low=mid+1;                
             }else
             {
-              low=mid+1;   
+               ans=mid;
+               high=mid-1;
             }
         }
         return ans;
@@ -20,26 +19,23 @@ class Solution {
     public int lengthOfLIS(int[] nums) {
         List<Integer>arr=new ArrayList<>();
         int n=nums.length;
+        arr.add(nums[0]);
         for(int i=0;i<n;i++)
         {
             int ele=nums[i];
-            if(arr.isEmpty())
-            {
-                arr.add(ele);
-            }else
-            {
+
                 int prev=arr.get(arr.size()-1);
                 if(prev < nums[i])
                 {
                     arr.add(nums[i]);
                 }else
                 {
-                    // if(!arr.contains(nums[i])){
+                    if(!arr.contains(nums[i])){
                     int upper=func(arr,0,arr.size()-1,nums[i]);
                     arr.set(upper,nums[i]);
-                    // }
+                    }
                 }
-            }
+            
         }
         return arr.size();
     }
