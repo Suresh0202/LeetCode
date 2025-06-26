@@ -169,6 +169,7 @@ Submitted Solutions
 | [1508-longest-happy-prefix](https://github.com/Suresh0202/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suresh0202/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Suresh0202/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -221,6 +222,7 @@ Submitted Solutions
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Suresh0202/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Suresh0202/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -277,6 +279,7 @@ Submitted Solutions
 | [1250-longest-common-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Suresh0202/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Monotonic Stack
 |  |
@@ -620,6 +623,7 @@ Submitted Solutions
 | [0139-word-break](https://github.com/Suresh0202/LeetCode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Suresh0202/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Union Find
 |  |
 | ------- |
