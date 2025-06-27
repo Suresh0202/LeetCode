@@ -16,7 +16,7 @@ class Solution {
             a.add(1);
             ans.add(a);
         }
-        System.out.println(ans);
+        // System.out.println(ans);
         return ans.get(rowIndex);
     }
 }
