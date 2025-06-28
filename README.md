@@ -78,6 +78,7 @@ Submitted Solutions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Suresh0202/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Suresh0202/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suresh0202/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Suresh0202/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -134,6 +135,7 @@ Submitted Solutions
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Suresh0202/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Suresh0202/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -326,6 +328,7 @@ Submitted Solutions
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Suresh0202/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Suresh0202/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -490,6 +493,7 @@ Submitted Solutions
 | [0347-top-k-frequent-elements](https://github.com/Suresh0202/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Suresh0202/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suresh0202/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Suresh0202/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Queue
