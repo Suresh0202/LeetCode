@@ -5,16 +5,18 @@ class Solution {
         int i=0;
         int j=0;
         int n1=g.length;
+        int c=0;
         int n2=s.length;
-        while(i<n1 && j < n2)
+        while(i<n2 && j < n1)
         {
-            if(s[j] >= g[i])
+            if(s[i] >= g[j])
             {
-                i++;
+                // i++;
                 j++;
+                c++;
             }
-            j++;
+            i++;
         }
-        return i;
+        return j;
     }
 }
