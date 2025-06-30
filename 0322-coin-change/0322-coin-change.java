@@ -1,43 +1,36 @@
 class Solution {
-    public int func(int idx,int arr[],int tar,int dp[][])
+    public int func(int arr[],int tar,int idx,Integer dp[][])
     {
         if(tar == 0)
         {
-            return 0;
+            return 1;
         }
-        if(idx < 0)
+        if(idx == arr.length)
         {
+            
             return Integer.MAX_VALUE;
         }
-        if(dp[idx][tar]!=-1)
+        if(dp[idx][tar] != null)
         {
             return dp[idx][tar];
         }
+        int npick=func(arr,tar,idx+1,dp);
         int pick=Integer.MAX_VALUE;
-        if(arr[idx]<=tar)
+        if(tar >= arr[idx])
         {
-            int x=func(idx,arr,tar-arr[idx],dp);
+            
+            int x=func(arr,tar-arr[idx],idx,dp);
             if(x != Integer.MAX_VALUE)
             {
                 pick=x+1;
             }
         }
-        int notpick=func(idx-1,arr,tar,dp);
-        return dp[idx][tar]=Math.min(pick,notpick);
-        
+        return dp[idx][tar]=Math.min(pick,npick);
     }
     public int coinChange(int[] coins, int amount) {
-        int n=coins.length;
-        int dp[][]=new int[n][amount+1];
-        for(int i=0;i<n;i++)
-        {
-            Arrays.fill(dp[i],-1);
-        }
-        int ans=func(n-1,coins,amount,dp);
-        if(ans == Integer.MAX_VALUE)
-        {
-            return -1;
-        }
-        return ans;
+        Integer dp[][]=new Integer[coins.length][amount+1];
+        int ans=func(coins,amount,0,dp);
+        if(ans == Integer.MAX_VALUE)return -1;
+        return ans-1;   
     }
 }
