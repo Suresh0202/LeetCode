@@ -49,10 +49,30 @@ class Solution {
                 }
             }
         }
-        // for(int i=0;i<=n;i++)
-        // {
-        //     System.out.println(Arrays.toString(dp[i]));
-        // }
+      
+       StringBuilder sb=new StringBuilder();
+       int i=n;
+       int j=m;
+       while(i>0 && j>0)
+       {
+           if(text1.charAt(i-1) == text2.charAt(j-1))
+           {
+               sb.append(text1.charAt(i-1));
+                i--;
+                j--;
+           }else if(dp[i-1][j] > dp[i][j-1])
+           {
+               i--;
+           }else{
+               j--;
+           }
+       }
+       String ans="";
+       for(int k=sb.length()-1;k>=0;k--)
+       {
+           ans+=sb.charAt(k);
+       }
+       System.out.println(ans);
         return dp[n][m];
         // return func(text1,text2,n,m,dp);
     }
