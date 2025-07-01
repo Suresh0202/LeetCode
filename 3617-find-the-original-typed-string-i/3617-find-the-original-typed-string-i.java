@@ -9,8 +9,8 @@ class Solution {
                 cnt++;
             }else
             {
-                System.out.println(word.charAt(i));
-                System.out.println(cnt);
+                // System.out.println(word.charAt(i));
+                // System.out.println(cnt);
                 if(cnt > 1)
                 {
                 ans+=(cnt-1);
@@ -22,7 +22,7 @@ class Solution {
         {
         ans+=(cnt-1);
         }
-        System.out.println(cnt);
+        // System.out.println(cnt);
         return ans;
     }
 }
