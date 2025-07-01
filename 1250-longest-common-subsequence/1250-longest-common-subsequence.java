@@ -49,10 +49,10 @@ class Solution {
                 }
             }
         }
-        for(int i=0;i<=n;i++)
-        {
-            System.out.println(Arrays.toString(dp[i]));
-        }
+        // for(int i=0;i<=n;i++)
+        // {
+        //     System.out.println(Arrays.toString(dp[i]));
+        // }
         return dp[n][m];
         // return func(text1,text2,n,m,dp);
     }
