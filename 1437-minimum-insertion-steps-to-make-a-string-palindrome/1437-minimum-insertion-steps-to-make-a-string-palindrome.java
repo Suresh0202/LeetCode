@@ -1,33 +1,32 @@
 class Solution {
-    public int minInsertions(String s1) {
-       StringBuilder sb=new StringBuilder(s1);
-        String s2=sb.reverse().toString();
-        int n=s1.length();
-        int m=n;
-        int dp[][]=new int[n+1][n+1];
-        for(int i=0;i<=n;i++)
+    public int func(String s,String t,int i,int j,int dp[][])
+    {
+        if(i<0 || j<0)
         {
-            dp[i][0]=0;
+            return 0;
         }
-        for(int j=0;j<=m;j++)
+        if(dp[i][j]!=-1)return dp[i][j];
+        if(s.charAt(i) == t.charAt(j))
         {
-            dp[0][j]=0;
+            dp[i][j]=1+func(s,t,i-1,j-1,dp);
+            return dp[i][j];
         }
-        for(int i=1;i<=n;i++)
+        int left=0+func(s,t,i-1,j,dp);
+        int right=0+func(s,t,i,j-1,dp);
+        dp[i][j]=Math.max(left,right);
+        return dp[i][j];
+    
+    }
+    public int minInsertions(String s) {
+         StringBuilder sb=new StringBuilder(s);
+        String t=sb.reverse().toString();
+        int n=s.length();
+        int dp[][]=new int[n][n];
+        for(int i=0;i<n;i++)
         {
-            for(int j=1;j<=m;j++)
-            {
-                if(s1.charAt(i-1) == s2.charAt(j-1))
-                {
-                    dp[i][j]=1+dp[i-1][j-1];
-                }else
-                {
-                int left=dp[i-1][j];
-                int right=dp[i][j-1];
-                dp[i][j]=Math.max(left,right);
-                }
-            }
+            Arrays.fill(dp[i],-1);
         }
-        return n-dp[n][n];
+        int ans=func(s,t,n-1,n-1,dp);
+        return n-ans;
     }
 }
