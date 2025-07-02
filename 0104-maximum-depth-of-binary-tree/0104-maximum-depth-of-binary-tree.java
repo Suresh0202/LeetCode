@@ -20,10 +20,10 @@ class Solution {
         {
             return 0;
         }
-        int left=1+func(root.left,ans);
-        int right=1+func(root.right,ans);
+        int left=func(root.left,ans);
+        int right=func(root.right,ans);
         ans[0]=Math.max(left,right);
-        return Math.max(left,right);
+        return 1+Math.max(left,right);
     }
     public int maxDepth(TreeNode root) {
        int ans[]={0};
