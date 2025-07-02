@@ -28,6 +28,6 @@ class Solution {
     public int maxDepth(TreeNode root) {
        int ans[]={0};
        int k=func(root,ans);
-       return ans[0];
+       return k;
     }
 }
