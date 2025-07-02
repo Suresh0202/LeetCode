@@ -169,6 +169,7 @@ Submitted Solutions
 | [0208-implement-trie-prefix-tree](https://github.com/Suresh0202/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Suresh0202/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Suresh0202/LeetCode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
@@ -225,6 +226,7 @@ Submitted Solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/Suresh0202/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0173-binary-search-tree-iterator](https://github.com/Suresh0202/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Suresh0202/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -664,6 +666,7 @@ Submitted Solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Suresh0202/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
