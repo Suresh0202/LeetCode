@@ -14,25 +14,20 @@
  * }
  */
 class Solution {
-    public static boolean func(TreeNode root,long min,long max)
+    public boolean isValidBST(TreeNode root) {
+        long min=Long.MIN_VALUE;
+        long max=Long.MAX_VALUE;
+        return func(root,min,max);
+    }
+    public boolean func(TreeNode root,long min,long max)
     {
-        if(root == null)
-        {
+        if(root == null){
             return true;
         }
-        if(root.val >= max || root.val <=min)
+        if(root.val <= min || root.val >= max)
         {
             return false;
         }
         return func(root.left,min,root.val) && func(root.right,root.val,max);
-    }
-    public boolean isValidBST(TreeNode root) {
-       if(root == null)
-       {
-        return true;
-       }
-       long min=Long.MIN_VALUE;
-       long max=Long.MAX_VALUE;
-       return func(root,min,max);
     }
 }
