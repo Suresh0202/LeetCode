@@ -14,30 +14,20 @@
  * }
  */
 class Solution {
-    int  ans=-1;
-    int cnt=0;
-    public  void inord(TreeNode root,int k)
+    public void func(TreeNode root,List<Integer>a)
     {
         if(root == null)
         {
             return;
         }
-        inord(root.left,k);
-        cnt++;
-        if(cnt ==k)
-        {
-            ans=root.val;
-        }
-        // ar.add(root.val);
-        inord(root.right,k);
+        func(root.left,a);
+        a.add(root.val);
+        func(root.right,a);
     }
     public int kthSmallest(TreeNode root, int k) {
-        if(root == null)
-        {
-            return root.val;
-        }
-        // List<Integer>ar=new ArrayList<>();
-        inord(root,k);
-        return ans;
+        List<Integer>a=new ArrayList<>();
+        func(root,a);
+       k= k-1;
+        return a.get(k);
     }
 }
