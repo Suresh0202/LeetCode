@@ -375,6 +375,7 @@ Submitted Solutions
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suresh0202/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suresh0202/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suresh0202/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -395,6 +396,7 @@ Submitted Solutions
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suresh0202/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suresh0202/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suresh0202/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Suresh0202/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Suresh0202/LeetCode/tree/master/0133-clone-graph) |
@@ -422,6 +424,7 @@ Submitted Solutions
 | ------- |
 | [0100-same-tree](https://github.com/Suresh0202/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suresh0202/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Suresh0202/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Suresh0202/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Suresh0202/LeetCode/tree/master/0133-clone-graph) |
@@ -452,6 +455,7 @@ Submitted Solutions
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suresh0202/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suresh0202/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suresh0202/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
