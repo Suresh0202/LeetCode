@@ -23,6 +23,7 @@ Submitted Solutions
 | [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suresh0202/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Suresh0202/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Suresh0202/LeetCode/tree/master/0120-triangle) |
@@ -215,6 +216,7 @@ Submitted Solutions
 | [0011-container-with-most-water](https://github.com/Suresh0202/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Suresh0202/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Suresh0202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Suresh0202/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
@@ -345,6 +347,7 @@ Submitted Solutions
 | ------- |
 | [0018-4sum](https://github.com/Suresh0202/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Suresh0202/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Suresh0202/LeetCode/tree/master/0242-valid-anagram) |
