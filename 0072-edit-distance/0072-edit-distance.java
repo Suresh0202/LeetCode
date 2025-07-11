@@ -1,39 +1,34 @@
 class Solution {
-    public static int func(int i,int j,String a,String b,int dp[][])
+    public int func(String w1,String w2,int i,int j,Integer dp[][])
     {
-        if(i<0)
+        if(i == 0)
         {
-            return j+1;
+            return j;
         }
-        if(j<0)
+        if(j ==0)
         {
-            return i+1;
+            return i;
         }
-        if(dp[i][j]!=-1)
+        if(dp[i-1][j-1] != null)
         {
-            return dp[i][j];
+            return dp[i-1][j-1];
         }
-        int z=0,x=0,y=0;
-        if(a.charAt(i) == b.charAt(j))
+        int a=0,b=0,c=0;
+        if(w1.charAt(i-1) == w2.charAt(j-1))
         {
-            return func(i-1,j-1,a,b,dp);
-        }else
-        {
-         x=1+func(i,j-1,a,b,dp);
-         y=1+func(i-1,j,a,b,dp);
-         z=1+func(i-1,j-1,a,b,dp);
+            return func(w1,w2,i-1,j-1,dp);
+        }else{
+            a=1+func(w1,w2,i,j-1,dp);
+            b=1+func(w1,w2,i-1,j,dp);
+            c=1+func(w1,w2,i-1,j-1,dp);
         }
-        return dp[i][j]=Math.min(x,Math.min(y,z));
+        // int y=Math.mi()
+        return dp[i-1][j-1]=Math.min(a,Math.min(b,c));
     }
-    public int minDistance(String word1, String word2) {
-        int n1=word1.length();
-        int n2=word2.length();
-        int dp[][]=new int[n1+1][n2+1];
-        for(int i=0;i<=n1;i++)
-        {
-            Arrays.fill(dp[i],-1);
-        }
-        int ans=func(n1-1,n2-1,word1,word2,dp);
-        return ans;
+    public int minDistance(String w1, String w2) {
+        int n=w1.length();
+        int m=w2.length();
+        Integer dp[][]=new Integer[n+1][m+1];
+        return func(w1,w2,n,m,dp);
     }
 }
