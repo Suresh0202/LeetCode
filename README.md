@@ -69,6 +69,7 @@ Submitted Solutions
 | [0792-binary-search](https://github.com/Suresh0202/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Suresh0202/LeetCode/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
+| [1019-squares-of-a-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Suresh0202/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Suresh0202/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -222,6 +223,7 @@ Submitted Solutions
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suresh0202/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -356,6 +358,7 @@ Submitted Solutions
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Suresh0202/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Suresh0202/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
