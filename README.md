@@ -105,6 +105,7 @@ Submitted Solutions
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suresh0202/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Suresh0202/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Suresh0202/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
 ## Hash Table
 |  |
@@ -322,6 +323,7 @@ Submitted Solutions
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Suresh0202/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Monotonic Stack
 |  |
 | ------- |
