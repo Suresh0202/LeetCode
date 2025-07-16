@@ -21,14 +21,15 @@ class Solution {
                 }
             }
         }
-        if(ce >co && ce> cal)
+        if(ce >=co && ce>=cal)
         {
             return ce;
-        }else if(co>ce && co>cal)
+        }else if(co>=ce && co>=cal)
         {
            return co;
-        }else {
+        }else if(cal>= ce && cal>=co) {
             return cal;
         }
+        return -1;
     }
 }
