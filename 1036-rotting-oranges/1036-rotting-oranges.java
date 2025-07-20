@@ -1,5 +1,7 @@
 class Pair{
-    int sr,sc,val;
+    int sr;
+    int sc;
+    int val;
     Pair(int sr,int sc,int val)
     {
         this.sr=sr;
@@ -8,78 +10,67 @@ class Pair{
     }
 }
 class Solution {
-    public boolean CheckBoundary(int i,int j,int n,int m,int grid[][],int vis[][])
+    public boolean Check(int i,int j,int vis[][],int grid[][])
     {
-            if(i>=0 && j>=0 && i<=n && j<=m && grid[i][j]==1 && vis[i][j]!=2)
-            {
-                return true;
-            }
-            return false;
+        if(i>=0 && j>=0 && i<vis.length && j<vis[0].length && vis[i][j] != 2 && grid[i][j] ==1)
+        {
+            return true;
+        } 
+        return false;
     }
     public int orangesRotting(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
         int vis[][]=new int[n][m];
         Queue<Pair>qu=new LinkedList<>();
-        int max=0;
-        int cnt=0;
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if(grid[i][j]==2)
+                if(grid[i][j] == 2)
                 {
-                    qu.add(new Pair(i,j,1));
+                    qu.add(new Pair(i,j,0));
                     vis[i][j]=2;
-                }else
-                {
-                    vis[i][j]=0;
                 }
             }
         }
+        int ans=0;
         while(!qu.isEmpty())
         {
-            int sr=qu.peek().sr;
-            int sc=qu.peek().sc;
-            int val=qu.peek().val;
+            int i=qu.peek().sr;
+            int j=qu.peek().sc;
+            int v=qu.peek().val;
             qu.remove();
-            max=Math.max(max,val);
-            if(CheckBoundary(sr-1,sc,n-1,m-1,grid,vis))
+            ans=v;
+            if(Check(i+1,j,vis,grid))
             {
-                qu.add(new Pair(sr-1,sc,val+1));
-                vis[sr-1][sc]=2;
-                cnt++;
+                qu.add(new Pair(i+1,j,v+1));
+                vis[i+1][j]=2;
             }
-            if(CheckBoundary(sr+1,sc,n-1,m-1,grid,vis))
+             if(Check(i-1,j,vis,grid))
             {
-                    qu.add(new Pair(sr+1,sc,val+1));
-                    vis[sr+1][sc]=2;
-                    cnt++;
+                qu.add(new Pair(i-1,j,v+1));
+                vis[i-1][j]=2;
             }
-            if(CheckBoundary(sr,sc-1,n-1,m-1,grid,vis))
+             if(Check(i,j+1,vis,grid))
             {
-                    qu.add(new Pair(sr,sc-1,val+1));
-                    vis[sr][sc-1]=2;
-                    cnt++;
+                qu.add(new Pair(i,j+1,v+1));
+                vis[i][j+1]=2;
             }
-            if(CheckBoundary(sr,sc+1,n-1,m-1,grid,vis))
-            {   
-                qu.add(new Pair(sr,sc+1,val+1));
-                vis[sr][sc+1]=2;
-                cnt++;
+             if(Check(i,j-1,vis,grid))
+            {
+                qu.add(new Pair(i,j-1,v+1));
+                vis[i][j-1]=2;
             }
+            
         }
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if((grid[i][j]==1 && vis[i][j]!=2))
-                {
-                    return -1;
-                }   
+                if(grid[i][j] == 1 && vis[i][j] != 2)return -1;
             }
         }
-        if(max == 0)return 0;
-        return max-1;
+        return ans;
     }
 }
