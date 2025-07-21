@@ -208,6 +208,7 @@ Submitted Solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Suresh0202/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Suresh0202/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -654,6 +655,7 @@ Submitted Solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Suresh0202/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Suresh0202/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Suresh0202/LeetCode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Suresh0202/LeetCode/tree/master/0062-unique-paths) |
@@ -705,6 +707,7 @@ Submitted Solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Suresh0202/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Suresh0202/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
