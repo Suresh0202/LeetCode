@@ -1,32 +1,31 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        char ch1[]=new char[26];
-        char ch2[]=new char[26];
+        if(s.length() != t.length())return false;
+        char arr[]=new char[s.length()];
+        char brr[]=new char[t.length()];
         for(int i=0;i<s.length();i++)
         {
-            ch1[s.charAt(i)-'a']++;
+            arr[i]=s.charAt(i);
         }
         for(int i=0;i<t.length();i++)
         {
-            ch2[t.charAt(i)-'a']++;
+            brr[i]=t.charAt(i);
         }
-        for(int i=0;i<26;i++)
-        {
-            // if(ch1[i]!=0)
-            // {
-                if(ch1[i] != ch2[i])
-                {
-                    return false;
-                }else if(ch1[i]!=0 && ch2[i]==0)
-                {
-                    return false;
-                }else if(ch2[i]!=0 && ch1[i]==0)
-                {
-                    return false;
-                }
-            
+        Arrays.sort(arr);
+        Arrays.sort(brr);
+          return Arrays.equals(arr,brr);
+        //   return false;
 
-        }
-        return true;
+
+
+
+
     }
 }
+
+// a a a g m n  r --s;
+// a a a g m n r  -- t;
+
+
+// a t r --s;
+// a c r -- t;
