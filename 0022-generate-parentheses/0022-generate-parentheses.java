@@ -1,29 +1,24 @@
 class Solution {
-    public static void func(int opct,int clct,int n,List<String>s,StringBuilder sb,int idx)
+        List<String>ans=new ArrayList<>();
+    public void func(int open,int close,int n,String curr)
     {
-        if(idx==n)
+        if(curr.length() == n*2)
         {
-            s.add(sb.toString());
+            ans.add(curr);
             return ;
         }
-        if(opct<n/2)
+        if(open<n)
         {
-            sb.append("(");
-            func(opct+1,clct,n,s,sb,idx+1);
-             sb.deleteCharAt(sb.length()-1);
+            func(open+1,close,n,curr+"(");
         }
-        if(clct<opct)
+        if(close<open)
         {
-            sb.append(")");
-            func(opct,clct+1,n,s,sb,idx+1);
-            sb.deleteCharAt(sb.length()-1);
+            func(open,close+1,n,curr+")");
         }
-
     }
+
     public List<String> generateParenthesis(int n) {
-        List<String>s=new ArrayList<>();
-        StringBuilder sb=new StringBuilder();
-        func(0,0,2*n,s,sb,0);
-        return s;
+        func(0,0,n,"");
+        return ans;
     }
 }
