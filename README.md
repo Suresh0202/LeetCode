@@ -19,6 +19,7 @@ Submitted Solutions
 | [0063-unique-paths-ii](https://github.com/Suresh0202/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suresh0202/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Suresh0202/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Suresh0202/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suresh0202/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -234,6 +235,7 @@ Submitted Solutions
 | [0011-container-with-most-water](https://github.com/Suresh0202/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Suresh0202/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Suresh0202/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Suresh0202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Suresh0202/LeetCode/tree/master/0143-reorder-list) |
@@ -371,6 +373,7 @@ Submitted Solutions
 | ------- |
 | [0018-4sum](https://github.com/Suresh0202/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Suresh0202/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Suresh0202/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Suresh0202/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
