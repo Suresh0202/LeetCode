@@ -9,6 +9,7 @@ Submitted Solutions
 | [0001-two-sum](https://github.com/Suresh0202/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Suresh0202/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Suresh0202/LeetCode/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suresh0202/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Suresh0202/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Suresh0202/LeetCode/tree/master/0039-combination-sum) |
@@ -520,6 +521,7 @@ Submitted Solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suresh0202/LeetCode/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
