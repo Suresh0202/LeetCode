@@ -1,4 +1,4 @@
 # Write your MySQL query statement below
-select user_id,CONCAT(UPPER(SUBSTR(Users.name,1,1)),LOWER(SUBSTR(Users.name,2))) as name
-from Users
+select user_id , concat(upper(substr(name,1,1)), lower(substr(name,2))) as name
+from users
 order by user_id
