@@ -1,56 +1,59 @@
 class Solution {
-     public static int rightfunc(int arr[],int target,int l,int r)
+    public int last(int nums[],int target)
     {
+        int low=0;
+        int high=nums.length-1;
         int ans=-1;
-        while(l<=r)
+        while(low<=high)
         {
-            int mid=(l+r)/2;
-            if(arr[mid]==target)
+            int mid=(low+high)/2;
+            if(nums[mid] == target)
             {
                 ans=mid;
-                    l=mid+1;
-            }else if(arr[mid]<target)
+                low=mid+1;
+            }
+            else if(nums[mid] > target)
             {
-                l=mid+1;
+                high=mid-1;
             }else
             {
-                r=mid-1;
+                // ans=mid;/
+                low=mid+1;
             }
         }
-        // if(l>=arr.length)return -1;
-        // if(arr[r]!=target)return -1;
         return ans;
+
     }
-    public static int leftfunc(int arr[],int target,int l,int r)
+     public int first(int nums[],int target)
     {
+        int low=0;
+        int high=nums.length-1;
         int ans=-1;
-        while(l<=r)
+        while(low<=high)
         {
-            int mid=(l+r)/2;
-            if(arr[mid]==target)
-            { 
-                    ans=mid;
-                    r=mid-1;
-            }else if(arr[mid]<target)
+            int mid=(low+high)/2;
+            if(nums[mid] == target)
             {
-                l=mid+1;
+                ans=mid;
+                high=mid-1;
+            }
+           else  if(nums[mid] < target)
+            {
+                low=mid+1;
             }else
             {
-                r=mid-1;
+                // ans=mid;/
+                high=mid-1;
             }
         }
-        // if(r<0)return -1;
-        // if(arr[l]!=target)return -1;
         return ans;
+
     }
     public int[] searchRange(int[] nums, int target) {
         int ans[]={-1,-1};
-        
-        int left=leftfunc(nums,target,0,nums.length-1);
-        int right=rightfunc(nums,target,0,nums.length-1);
-        
-        ans[0]=left;
-        ans[1]=right;
+        ans[0]=first(nums,target);
+        ans[1]=last(nums,target);
         return ans;
+
     }
 }
