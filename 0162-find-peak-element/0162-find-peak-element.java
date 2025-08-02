@@ -3,6 +3,9 @@ class Solution {
         int ans=0;
         int low=0;
         int high=nums.length-1;
+        if(nums.length==1)return 0;
+        if(nums[0]>nums[1])return 0;
+        if(nums[nums.length-1]>nums[nums.length-2])return nums.length-1;
         while(low<=high)
         {
             int mid=(low+high)/2;
