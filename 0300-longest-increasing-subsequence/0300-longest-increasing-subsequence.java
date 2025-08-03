@@ -1,25 +1,38 @@
 class Solution {
-    public int func(int idx,int nums[],int prev,Integer dp[][])
+    public int lower(List<Integer>ar,int x)
     {
-        if(idx == nums.length)
+        int low=0;
+        int high=ar.size()-1;
+        int ans=0;
+        while(low <= high)
         {
-            return 0;
+            int mid=(low+high)/2;
+            if(ar.get(mid) >=x)
+            {
+                ans=mid;
+                high=mid-1;
+            }else
+            {
+                low=mid+1;
+            }
         }
-        if(dp[idx][prev+1] != null)
-        {
-            return dp[idx][prev+1];
-        }
-        int npick=func(idx+1,nums,prev,dp);
-        int pick=0;
-        if( prev == -1 || nums[prev] < nums[idx])
-        {
-            pick=1+func(idx+1,nums,idx,dp);
-        }
-        return dp[idx][prev+1]=Math.max(pick,npick);
+        return ans;
     }
     public int lengthOfLIS(int[] nums) {
-        int n=nums.length;
-        Integer dp[][]=new Integer[n][n];
-        return func(0,nums,-1,dp);
+        List<Integer>ar=new ArrayList<>();
+        ar.add(nums[0]);
+        for(int i=1;i<nums.length;i++)
+        {
+            if(ar.get(ar.size()-1) < nums[i])
+            {
+                ar.add(nums[i]);
+            }else
+            {
+                int pos=lower(ar,nums[i]);
+                ar.set(pos,nums[i]);
+            }
+
+        }
+        return ar.size();
     }
 }
