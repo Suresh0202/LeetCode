@@ -1,42 +1,25 @@
 class Solution {
-    public int func(List<Integer>arr,int low,int high,int tar)
+    public int func(int idx,int nums[],int prev,Integer dp[][])
     {
-        int ans=arr.size()-1;
-        while(low<=high)
+        if(idx == nums.length)
         {
-            int mid=(low+high)/2;
-            if(arr.get(mid) <= tar)
-            {
-                 low=mid+1;                
-            }else
-            {
-               ans=mid;
-               high=mid-1;
-            }
+            return 0;
         }
-        return ans;
+        if(dp[idx][prev+1] != null)
+        {
+            return dp[idx][prev+1];
+        }
+        int npick=func(idx+1,nums,prev,dp);
+        int pick=0;
+        if( prev == -1 || nums[prev] < nums[idx])
+        {
+            pick=1+func(idx+1,nums,idx,dp);
+        }
+        return dp[idx][prev+1]=Math.max(pick,npick);
     }
     public int lengthOfLIS(int[] nums) {
-        List<Integer>arr=new ArrayList<>();
         int n=nums.length;
-        arr.add(nums[0]);
-        for(int i=0;i<n;i++)
-        {
-            int ele=nums[i];
-
-                int prev=arr.get(arr.size()-1);
-                if(prev < nums[i])
-                {
-                    arr.add(nums[i]);
-                }else
-                {
-                    if(!arr.contains(nums[i])){
-                    int upper=func(arr,0,arr.size()-1,nums[i]);
-                    arr.set(upper,nums[i]);
-                    }
-                }
-            
-        }
-        return arr.size();
+        Integer dp[][]=new Integer[n][n];
+        return func(0,nums,-1,dp);
     }
 }
