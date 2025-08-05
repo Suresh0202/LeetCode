@@ -260,6 +260,7 @@ Submitted Solutions
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suresh0202/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suresh0202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Suresh0202/LeetCode/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Suresh0202/LeetCode/tree/master/0173-binary-search-tree-iterator) |
@@ -417,6 +418,7 @@ Submitted Solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suresh0202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suresh0202/LeetCode/tree/master/0100-same-tree) |
@@ -443,6 +445,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suresh0202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suresh0202/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suresh0202/LeetCode/tree/master/0101-symmetric-tree) |
@@ -507,6 +510,7 @@ Submitted Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suresh0202/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suresh0202/LeetCode/tree/master/0100-same-tree) |
