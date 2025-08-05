@@ -14,20 +14,13 @@
  * }
  */
 class Solution {
-    public int func(TreeNode root,int ans[])
-    {
+    public int maxDepth(TreeNode root) {
         if(root == null)
         {
             return 0;
         }
-        int left=func(root.left,ans);
-        int right=func(root.right,ans);
-        ans[0]=Math.max(left,right);
+        int left=maxDepth(root.left);
+        int right=maxDepth(root.right);
         return 1+Math.max(left,right);
-    }
-    public int maxDepth(TreeNode root) {
-       int ans[]={0};
-       int k=func(root,ans);
-       return k;
     }
 }
