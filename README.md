@@ -192,6 +192,7 @@ Submitted Solutions
 | [0139-word-break](https://github.com/Suresh0202/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suresh0202/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Suresh0202/LeetCode/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Suresh0202/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -436,6 +437,7 @@ Submitted Solutions
 | [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Suresh0202/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Suresh0202/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -467,6 +469,7 @@ Submitted Solutions
 | [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Suresh0202/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Suresh0202/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/Suresh0202/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -496,6 +499,7 @@ Submitted Solutions
 | [0207-course-schedule](https://github.com/Suresh0202/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Suresh0202/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Suresh0202/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Suresh0202/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Suresh0202/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -534,6 +538,7 @@ Submitted Solutions
 | [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Suresh0202/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Suresh0202/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -653,6 +658,7 @@ Submitted Solutions
 | [0146-lru-cache](https://github.com/Suresh0202/LeetCode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Suresh0202/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suresh0202/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Suresh0202/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/Suresh0202/LeetCode/tree/master/0817-design-hashmap) |
