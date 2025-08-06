@@ -66,7 +66,7 @@ class Solution {
                     }
                     ar.add(qu.poll().val);
                 }
-                System.out.println(ar);
+                // System.out.println(ar);
                 if(level % 2 == 1)
                 {
                     if(isSorted_dec(ar) == false)
