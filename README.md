@@ -444,6 +444,7 @@ Submitted Solutions
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Suresh0202/LeetCode/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -509,6 +510,7 @@ Submitted Solutions
 | [1036-rotting-oranges](https://github.com/Suresh0202/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Suresh0202/LeetCode/tree/master/1731-even-odd-tree) |
 | [1876-map-of-highest-peak](https://github.com/Suresh0202/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
@@ -540,6 +542,7 @@ Submitted Solutions
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Suresh0202/LeetCode/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
