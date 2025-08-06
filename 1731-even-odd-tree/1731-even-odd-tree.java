@@ -64,6 +64,20 @@ class Solution {
                     {
                         qu.add(qu.peek().right);
                     }
+                    int k=qu.peek().val;
+                    if(level % 2 == 1)
+                    {
+                        if(k%2 == 1)
+                        {
+                            return false;
+                        }
+                    }else if(level % 2 ==0)
+                    {
+                        if(k%2 == 0)
+                        {
+                            return false;
+                        }
+                    }
                     ar.add(qu.poll().val);
                 }
                 // System.out.println(ar);
