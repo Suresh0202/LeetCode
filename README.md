@@ -231,6 +231,7 @@ Submitted Solutions
 | [0141-linked-list-cycle](https://github.com/Suresh0202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Suresh0202/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Suresh0202/LeetCode/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/Suresh0202/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/Suresh0202/LeetCode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Suresh0202/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -778,6 +779,7 @@ Submitted Solutions
 | [0021-merge-two-sorted-lists](https://github.com/Suresh0202/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Suresh0202/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Suresh0202/LeetCode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Suresh0202/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Suresh0202/LeetCode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
