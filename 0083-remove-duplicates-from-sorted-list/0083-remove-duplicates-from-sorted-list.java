@@ -10,24 +10,17 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        ArrayList<Integer>st=new ArrayList<>();
-        ListNode temp=head;
-        while(temp != null)
+        ListNode curr=head;
+        while(curr != null && curr.next != null)
         {
-            if(!st.contains(temp.val))
+            if(curr.val == curr.next.val)
             {
-                st.add(temp.val);
+                curr.next=curr.next.next;
+            }else
+            {
+                curr=curr.next;
             }
-        
-            temp=temp.next;
         }
-        ListNode dummy=new ListNode(-1);
-        ListNode t=dummy;
-        for(int i=0;i<st.size();i++)
-        {
-            t.next=new ListNode((st.get(i)));
-            t=t.next;
-        }
-        return dummy.next;
+        return head;
     }
 }
