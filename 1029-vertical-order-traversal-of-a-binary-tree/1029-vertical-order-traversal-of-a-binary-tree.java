@@ -13,58 +13,70 @@
  *     }
  * }
  */
- class Triplet{
-    int vertical;
+class Triplet{
+    TreeNode node;
+    int vert;
     int level;
-    TreeNode root;
-    Triplet(TreeNode root,int vertical,int level)
+    Triplet(TreeNode node,int vert,int level)
     {
-        this.root=root;
-        this.vertical=vertical;
+        this.node=node;
+        this.vert=vert;
         this.level=level;
     }
- }
+}
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        Queue<Triplet>qu=new LinkedList<>();
+        List<List<Integer>>ans=new ArrayList<>();
         TreeMap<Integer,TreeMap<Integer,PriorityQueue<Integer>>>map=new TreeMap<>();
+        //map<vertical,map<level,values at levev (in sorted);
+        Queue<Triplet>qu=new LinkedList<>();
+        //triplet -- node,vert,level;
+        //move left vert-1,level+1;
+        //move right  vert+1,level+1;
         qu.add(new Triplet(root,0,0));
         while(!qu.isEmpty())
         {
-            Triplet trip=qu.poll();
-            TreeNode node=trip.root;
-            int vert=trip.vertical;
-            int level=trip.level;
-            if(!map.containsKey(vert))
+            Triplet tp=qu.poll();
+            int vertical=tp.vert;
+            int value=tp.node.val;
+            int level=tp.level;
+            if(!map.containsKey(vertical))
             {
-                map.put(vert,new TreeMap<>());
+                map.put(vertical,new TreeMap<>());
             }
-            if(!map.get(vert).containsKey(level))
+            if(!map.get(vertical).containsKey(level))
             {
-                map.get(vert).put(level,new PriorityQueue<>());
+                map.get(vertical).put(level, new PriorityQueue<>());
             }
-            map.get(vert).get(level).add(node.val);
-            if(node.left!=null)
+            map.get(vertical).get(level).add(value);
+
+            if(tp.node.left != null)
             {
-                qu.add(new Triplet(node.left,vert-1,level+1));
+                qu.add(new Triplet(tp.node.left,vertical-1,level+1));
             }
-            if(node.right!=null)
+            if(tp.node.right != null)
             {
-                qu.add(new Triplet(node.right,vert+1,level+1));
+                qu.add(new Triplet(tp.node.right,vertical+1,level+1));
             }
         }
-        List<List<Integer>>ans=new ArrayList<>();
-        for(TreeMap<Integer,PriorityQueue<Integer>>mp:map.values())
+        for(int key:map.keySet())
         {
-            ans.add(new ArrayList<>());
-            for(PriorityQueue<Integer>nodes:mp.values())
+            List<Integer>A=new ArrayList<>();
+            for(int level:map.get(key).keySet())
             {
-                while(!nodes.isEmpty())
+                while(!(map.get(key).get(level)).isEmpty())
                 {
-                    ans.get(ans.size()-1).add(nodes.poll());
+                    A.add((map.get(key).get(level)).peek());
+                    map.get(key).get(level).poll();
                 }
+                // A.add(map.get(key).get(level));
+                System.out.print(map.get(key).get(level) +" ");
+                
             }
+            ans.add(A);
+            System.out.println();
         }
         return ans;
     }
+
 }
