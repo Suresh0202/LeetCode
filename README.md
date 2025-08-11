@@ -227,6 +227,7 @@ Submitted Solutions
 | [0061-rotate-list](https://github.com/Suresh0202/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Suresh0202/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Suresh0202/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Suresh0202/LeetCode/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Suresh0202/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -250,6 +251,7 @@ Submitted Solutions
 | [0061-rotate-list](https://github.com/Suresh0202/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Suresh0202/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Suresh0202/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/Suresh0202/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Suresh0202/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Suresh0202/LeetCode/tree/master/0143-reorder-list) |
