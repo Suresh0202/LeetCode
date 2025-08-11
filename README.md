@@ -239,6 +239,7 @@ Submitted Solutions
 | [1337-design-skiplist](https://github.com/Suresh0202/LeetCode/tree/master/1337-design-skiplist) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Suresh0202/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,6 +278,7 @@ Submitted Solutions
 | [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Suresh0202/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
@@ -365,6 +367,7 @@ Submitted Solutions
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suresh0202/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -789,6 +792,7 @@ Submitted Solutions
 | [0231-power-of-two](https://github.com/Suresh0202/LeetCode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
