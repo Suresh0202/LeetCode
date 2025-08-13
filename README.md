@@ -755,6 +755,7 @@ Submitted Solutions
 | [0204-count-primes](https://github.com/Suresh0202/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Suresh0202/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Suresh0202/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Suresh0202/LeetCode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Suresh0202/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/Suresh0202/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -808,6 +809,7 @@ Submitted Solutions
 | [0203-remove-linked-list-elements](https://github.com/Suresh0202/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Suresh0202/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Suresh0202/LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
