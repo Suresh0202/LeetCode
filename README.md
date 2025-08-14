@@ -193,6 +193,7 @@ Submitted Solutions
 | [0139-word-break](https://github.com/Suresh0202/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Suresh0202/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Suresh0202/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Suresh0202/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/Suresh0202/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
@@ -464,6 +465,7 @@ Submitted Solutions
 | [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Suresh0202/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Suresh0202/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Suresh0202/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -498,6 +500,7 @@ Submitted Solutions
 | [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Suresh0202/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Suresh0202/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Suresh0202/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -571,6 +574,7 @@ Submitted Solutions
 | [0226-invert-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Suresh0202/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Suresh0202/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Suresh0202/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -675,6 +679,7 @@ Submitted Solutions
 | [0078-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Suresh0202/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Suresh0202/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/Suresh0202/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Suresh0202/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
