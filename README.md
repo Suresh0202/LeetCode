@@ -211,6 +211,7 @@ Submitted Solutions
 | [1508-longest-happy-prefix](https://github.com/Suresh0202/LeetCode/tree/master/1508-longest-happy-prefix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Suresh0202/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suresh0202/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
