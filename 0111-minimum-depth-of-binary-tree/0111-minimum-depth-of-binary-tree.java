@@ -14,23 +14,35 @@
  * }
  */
 class Solution {
-    public int func(TreeNode root)
-    {
+    public int minDepth(TreeNode root) {
         if(root == null)
         {
             return 0;
         }
-        if(root.left == null)
+        Queue<TreeNode>qu=new LinkedList<>();
+        qu.add(root);
+        int level=1;
+        while(!qu.isEmpty())
         {
-            return func(root.right)+1;
+            int len=qu.size();
+            for(int i=0;i<len;i++)
+            {
+                if(qu.peek().left == null && qu.peek().right == null)
+                {
+                    return level;
+                }
+                if(qu.peek().left != null)
+                {
+                    qu.add(qu.peek().left);
+                }
+                if(qu.peek().right != null)
+                {
+                    qu.add(qu.peek().right);
+                }
+                qu.poll();
+            }
+            level++;
         }
-        if(root.right == null)
-        {
-            return func(root.left)+1;
-        }
-        return 1+Math.min(func(root.left),func(root.right));
-    }
-    public int minDepth(TreeNode root) {
-        return func(root);
+        return -1;
     }
 }
