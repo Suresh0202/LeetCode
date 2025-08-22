@@ -475,6 +475,7 @@ Submitted Solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Suresh0202/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Suresh0202/LeetCode/tree/master/1731-even-odd-tree) |
@@ -514,6 +515,7 @@ Submitted Solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Suresh0202/LeetCode/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Suresh0202/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Suresh0202/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -546,6 +548,7 @@ Submitted Solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Suresh0202/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Suresh0202/LeetCode/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Suresh0202/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Suresh0202/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Suresh0202/LeetCode/tree/master/1036-rotting-oranges) |
@@ -586,6 +589,7 @@ Submitted Solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Suresh0202/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Suresh0202/LeetCode/tree/master/1731-even-odd-tree) |
@@ -612,6 +616,7 @@ Submitted Solutions
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Suresh0202/LeetCode/tree/master/0792-binary-search) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Suresh0202/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Suresh0202/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suresh0202/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
