@@ -114,6 +114,7 @@ Submitted Solutions
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Suresh0202/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suresh0202/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Suresh0202/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Suresh0202/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/Suresh0202/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Suresh0202/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -803,6 +804,7 @@ Submitted Solutions
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Suresh0202/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Suresh0202/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Number Theory
 |  |
 | ------- |
