@@ -22,7 +22,8 @@ class Solution {
         while(!qu.isEmpty())
         {
             int len=qu.size();
-            List<Integer>a=new ArrayList<>();
+            ans=qu.peek().val;
+            // List<Integer>a=new ArrayList<>();
             for(int i=0;i<len;i++)
             {
                 if(qu.peek().left != null)
@@ -33,9 +34,9 @@ class Solution {
                 {
                     qu.add(qu.peek().right);
                 }
-                a.add(qu.poll().val);
+                qu.poll();
             }
-            ans=a.get(0);
+            // ans=a.get(0);
         }
         return ans;
     }
