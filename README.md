@@ -15,6 +15,7 @@ Submitted Solutions
 | [0039-combination-sum](https://github.com/Suresh0202/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suresh0202/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Suresh0202/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Suresh0202/LeetCode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Suresh0202/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Suresh0202/LeetCode/tree/master/0057-insert-interval) |
@@ -308,6 +309,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Suresh0202/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Suresh0202/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suresh0202/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Suresh0202/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Suresh0202/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -345,6 +347,7 @@ Submitted Solutions
 | [0022-generate-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Suresh0202/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Suresh0202/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Suresh0202/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Suresh0202/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suresh0202/LeetCode/tree/master/0064-minimum-path-sum) |
