@@ -75,6 +75,7 @@ Submitted Solutions
 | [0792-binary-search](https://github.com/Suresh0202/LeetCode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Suresh0202/LeetCode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/Suresh0202/LeetCode/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/Suresh0202/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Suresh0202/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suresh0202/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -647,6 +648,7 @@ Submitted Solutions
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Suresh0202/LeetCode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Suresh0202/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0907-koko-eating-bananas](https://github.com/Suresh0202/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Suresh0202/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suresh0202/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
