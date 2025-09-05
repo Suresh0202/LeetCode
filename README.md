@@ -196,6 +196,7 @@ Submitted Solutions
 | [0032-longest-valid-parentheses](https://github.com/Suresh0202/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Suresh0202/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Suresh0202/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Suresh0202/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Suresh0202/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Suresh0202/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Suresh0202/LeetCode/tree/master/0127-word-ladder) |
@@ -358,6 +359,7 @@ Submitted Solutions
 | [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Suresh0202/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Suresh0202/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Suresh0202/LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Suresh0202/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Suresh0202/LeetCode/tree/master/0115-distinct-subsequences) |
