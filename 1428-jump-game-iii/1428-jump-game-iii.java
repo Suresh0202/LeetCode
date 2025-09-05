@@ -19,7 +19,7 @@ class Solution {
             int idx=qu.peek().idx;
             int front=idx+val;
             int back=idx-val;
-            if(idx == 0)
+            if(val == 0)
             {
                 return true;
             }
