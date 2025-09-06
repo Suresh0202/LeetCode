@@ -96,6 +96,7 @@ Submitted Solutions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1767-design-front-middle-back-queue](https://github.com/Suresh0202/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Suresh0202/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/Suresh0202/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Suresh0202/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Suresh0202/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -312,6 +313,7 @@ Submitted Solutions
 | [0678-valid-parenthesis-string](https://github.com/Suresh0202/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Suresh0202/LeetCode/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Suresh0202/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -671,6 +673,7 @@ Submitted Solutions
 | [0239-sliding-window-maximum](https://github.com/Suresh0202/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Suresh0202/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1767-design-front-middle-back-queue](https://github.com/Suresh0202/LeetCode/tree/master/1767-design-front-middle-back-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Suresh0202/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -775,6 +778,7 @@ Submitted Solutions
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Suresh0202/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Suresh0202/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Suresh0202/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
