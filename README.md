@@ -93,6 +93,7 @@ Submitted Solutions
 | [1603-running-sum-of-1d-array](https://github.com/Suresh0202/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Suresh0202/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1767-design-front-middle-back-queue](https://github.com/Suresh0202/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Suresh0202/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Suresh0202/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -262,6 +263,7 @@ Submitted Solutions
 | [1072-next-greater-node-in-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1337-design-skiplist](https://github.com/Suresh0202/LeetCode/tree/master/1337-design-skiplist) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Suresh0202/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1767-design-front-middle-back-queue](https://github.com/Suresh0202/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Suresh0202/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -666,6 +668,7 @@ Submitted Solutions
 | [0232-implement-queue-using-stacks](https://github.com/Suresh0202/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Suresh0202/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Suresh0202/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1767-design-front-middle-back-queue](https://github.com/Suresh0202/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 ## Sliding Window
 |  |
 | ------- |
@@ -761,6 +764,7 @@ Submitted Solutions
 | [1337-design-skiplist](https://github.com/Suresh0202/LeetCode/tree/master/1337-design-skiplist) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1767-design-front-middle-back-queue](https://github.com/Suresh0202/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Suresh0202/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Iterator
 |  |
@@ -838,6 +842,7 @@ Submitted Solutions
 | [0295-find-median-from-data-stream](https://github.com/Suresh0202/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1767-design-front-middle-back-queue](https://github.com/Suresh0202/LeetCode/tree/master/1767-design-front-middle-back-queue) |
 ## Matrix
 |  |
 | ------- |
