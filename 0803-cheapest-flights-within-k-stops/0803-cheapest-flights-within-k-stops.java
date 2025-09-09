@@ -30,7 +30,7 @@ class Solution {
                 int dist=it[1];
                 int nodeP=it[0];
 
-                if(cost + dist < distance[nodeP] )
+                if(cost + dist < distance[nodeP]  && stop <= k)
                 {
                     distance[nodeP]=(cost +dist);
                 qu.add(new int[]{stop+1,nodeP,distance[nodeP]});
