@@ -13,36 +13,35 @@ class Solution {
             adj.get(u).add(new int[]{v,w});
 
         }
-        PriorityQueue<int[]> qu = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        Queue<int[]>qu=new LinkedList<>();
         int distance[]=new int[n+1];
         Arrays.fill(distance,(int)(1e9));
-        qu.add(new int[]{0,k});
         distance[k]=0;
+        qu.add(new int[]{0,k,0});
         int max=Integer.MIN_VALUE;
         while(!qu.isEmpty())
         {
             int trip[]=qu.poll();
             int time=trip[0];
             int node=trip[1];
-if (time > distance[node]) continue;
+            int dist=trip[2];
             max=Math.max(max,time);
             for(int it[]:adj.get(node))
             {
                 int wt=it[1];
                 int nodeP=it[0];
-                if( wt + time < distance[nodeP])
+                if( wt + dist < distance[nodeP])
                 {
-                    distance[nodeP]=(wt+time);
-                    qu.add(new int[]{distance[nodeP],nodeP});
+                    distance[nodeP]=(wt+dist);
+                    qu.add(new int[]{time+1,nodeP,wt+dist});
                 }
             }
         }
-     int ans = 0;
+       int ans = 0;
         for (int i = 1; i <= n; i++) {
-            if (distance[i] == (int) 1e9) return -1; // unreachable node
+            if (distance[i] == (int) (1e9)) return -1; // unreachable node
             ans = Math.max(ans, distance[i]);
         }
         return ans;
-        // return max;
     }
 }
