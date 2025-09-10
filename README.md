@@ -92,6 +92,7 @@ Submitted Solutions
 | [1392-find-the-difference-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suresh0202/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/Suresh0202/LeetCode/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/Suresh0202/LeetCode/tree/master/1447-jump-game-iv) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Suresh0202/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -175,6 +176,7 @@ Submitted Solutions
 | [1364-tuple-with-same-product](https://github.com/Suresh0202/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1447-jump-game-iv](https://github.com/Suresh0202/LeetCode/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Suresh0202/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Suresh0202/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -617,6 +619,7 @@ Submitted Solutions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suresh0202/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/Suresh0202/LeetCode/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/Suresh0202/LeetCode/tree/master/1447-jump-game-iv) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Suresh0202/LeetCode/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Suresh0202/LeetCode/tree/master/1753-path-with-minimum-effort) |
