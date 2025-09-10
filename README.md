@@ -117,6 +117,7 @@ Submitted Solutions
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Suresh0202/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suresh0202/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suresh0202/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Suresh0202/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -863,6 +864,7 @@ Submitted Solutions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suresh0202/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Suresh0202/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Suresh0202/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Suresh0202/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Suresh0202/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -900,6 +902,7 @@ Submitted Solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Suresh0202/LeetCode/tree/master/0204-count-primes) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Suresh0202/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Recursion
 |  |
