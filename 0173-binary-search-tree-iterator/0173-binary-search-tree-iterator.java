@@ -14,40 +14,41 @@
  * }
  */
 class BSTIterator {
-    List<Integer>arr=new ArrayList<>();
-    int i=0;
-    public BSTIterator(TreeNode root) {
-        inn(root,arr);
-    }
-    public void inn(TreeNode root,List<Integer>ar)
+    public void find(TreeNode root,ArrayList<TreeNode>ans)
     {
         if(root == null)
         {
             return;
         }
-        inn(root.left,ar);
-        ar.add(root.val);
-        inn(root.right,ar);
+        find(root.left,ans);
+        ans.add(root);
+        find(root.right,ans);
     }
+    int i;
+    ArrayList<TreeNode>ans;
+    public BSTIterator(TreeNode root) {
+        ans=new ArrayList<>();
+        find(root,ans);
+        i=0;
+    }
+    
     public int next() {
-        // if(i<arr.size())
+        TreeNode val;
+        if(i < ans.size())
         {
-            int k=arr.get(i);
+            val=ans.get(i);
             i++;
-            return k;
+            return val.val;
         }
+        return -1;
     }
     
     public boolean hasNext() {
-        if(i>=arr.size())
+        if(i<ans.size())
         {
-            return false;
+            return true;
         }
-        // if(arr.size()==0)
-        // {
-        //     return false;
-        // }
-        return true;
+        return false;
     }
 }
 
