@@ -418,6 +418,7 @@ Submitted Solutions
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Suresh0202/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Suresh0202/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Suresh0202/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Suresh0202/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
