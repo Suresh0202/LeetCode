@@ -13,35 +13,33 @@
  *     }
  * }
  */
+ 
 class Solution {
-    public int func1(TreeNode root,long sum)
+    public int func(TreeNode root,int ts,HashMap<Long,Integer>mp,long running,List<Integer> path)
     {
         if(root == null)
         {
             return 0;
         }
-        int cnt=0;
-        if(root.val == sum)
-        {
-            cnt=1;
-        }
-        cnt+=func1(root.left,sum-root.val);
-        cnt+=func1(root.right,sum-root.val);
-        return cnt;
-    }
-    public int func(TreeNode root,long ts)
-    {
-        if(root == null)
-        {
-            return 0;
-        }
-        int left=func(root.left,ts);
-        int right=func(root.right,ts);
-        int sum=func1(root,ts);
-        return left+right+sum;
+        path.add(root.val);
+         running+=root.val;
+         int cnt=0;
+         if(mp.containsKey(running-ts))
+         {
+            cnt=mp.get(running-ts);
+        
+           
+         }
+         mp.put(running,mp.getOrDefault(running,0)+1);
+         cnt+=func(root.left,ts,mp,running,path);
+         cnt+=func(root.right,ts,mp,running,path);
+         mp.put(running , mp.get(running)-1);
+         path.remove(path.size()-1);
+         return cnt;
     }
     public int pathSum(TreeNode root, int targetSum) {
-        int ans=func(root,targetSum);
-        return ans;
+        HashMap<Long,Integer>mp=new HashMap<>();
+        mp.put(0L,1);
+        return func(root,targetSum,mp,0,new ArrayList<>());
     }
 }
