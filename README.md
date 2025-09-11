@@ -185,6 +185,7 @@ Submitted Solutions
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Suresh0202/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Suresh0202/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Suresh0202/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suresh0202/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Suresh0202/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -539,6 +540,7 @@ Submitted Solutions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Suresh0202/LeetCode/tree/master/1731-even-odd-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suresh0202/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -592,6 +594,7 @@ Submitted Solutions
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Suresh0202/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suresh0202/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
 ## Breadth-First Search
 |  |
@@ -638,6 +641,7 @@ Submitted Solutions
 | [1753-path-with-minimum-effort](https://github.com/Suresh0202/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Suresh0202/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Suresh0202/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suresh0202/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3809-properties-graph](https://github.com/Suresh0202/LeetCode/tree/master/3809-properties-graph) |
 ## Binary Tree
 |  |
@@ -680,6 +684,7 @@ Submitted Solutions
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Suresh0202/LeetCode/tree/master/1731-even-odd-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suresh0202/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
