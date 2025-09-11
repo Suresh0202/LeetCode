@@ -14,30 +14,34 @@
  * }
  */
 class Solution {
-    int cnt=0;
-    public void func(TreeNode root,List<Integer>ans,int tar)
+    public int func1(TreeNode root,long sum)
     {
         if(root == null)
         {
-            return ;
+            return 0;
         }
-        ans.add(root.val);
-        func(root.left,ans,tar);
-        func(root.right,ans,tar);
-        int temp=0;
-        for(int i=ans.size()-1;i>=0;i--)
+        int cnt=0;
+        if(root.val == sum)
         {
-            temp+=ans.get(i);
-            if(temp == tar)
-            {
-                cnt++;
-            }
+            cnt=1;
         }
-        ans.remove(ans.size()-1);
+        cnt+=func1(root.left,sum-root.val);
+        cnt+=func1(root.right,sum-root.val);
+        return cnt;
+    }
+    public int func(TreeNode root,long ts)
+    {
+        if(root == null)
+        {
+            return 0;
+        }
+        int left=func(root.left,ts);
+        int right=func(root.right,ts);
+        int sum=func1(root,ts);
+        return left+right+sum;
     }
     public int pathSum(TreeNode root, int targetSum) {
-        List<Integer>ans=new ArrayList<>();
-        func(root,ans,targetSum);
-        return cnt;
+        int ans=func(root,targetSum);
+        return ans;
     }
 }
