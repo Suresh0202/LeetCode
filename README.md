@@ -168,6 +168,7 @@ Submitted Solutions
 | [0594-longest-harmonious-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0817-design-hashmap](https://github.com/Suresh0202/LeetCode/tree/master/0817-design-hashmap) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Suresh0202/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -536,6 +537,7 @@ Submitted Solutions
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Suresh0202/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -587,6 +589,7 @@ Submitted Solutions
 | [0801-is-graph-bipartite](https://github.com/Suresh0202/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Suresh0202/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Suresh0202/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -629,6 +632,7 @@ Submitted Solutions
 | [0801-is-graph-bipartite](https://github.com/Suresh0202/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Suresh0202/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Suresh0202/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Suresh0202/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Suresh0202/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -680,6 +684,7 @@ Submitted Solutions
 | [0784-insert-into-a-binary-search-tree](https://github.com/Suresh0202/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Suresh0202/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Suresh0202/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
