@@ -167,6 +167,7 @@ Submitted Solutions
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suresh0202/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0782-jewels-and-stones](https://github.com/Suresh0202/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/Suresh0202/LeetCode/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Suresh0202/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
@@ -228,6 +229,7 @@ Submitted Solutions
 | [0583-delete-operation-for-two-strings](https://github.com/Suresh0202/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/Suresh0202/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Suresh0202/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0782-jewels-and-stones](https://github.com/Suresh0202/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Suresh0202/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Suresh0202/LeetCode/tree/master/1160-letter-tile-possibilities) |
