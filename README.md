@@ -460,6 +460,7 @@ Submitted Solutions
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suresh0202/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suresh0202/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Suresh0202/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Suresh0202/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -913,6 +914,7 @@ Submitted Solutions
 | [2610-closest-prime-numbers-in-range](https://github.com/Suresh0202/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Suresh0202/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Suresh0202/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Data Stream
 |  |
 | ------- |
