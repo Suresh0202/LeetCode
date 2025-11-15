@@ -229,6 +229,7 @@ Submitted Solutions
 | [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/Suresh0202/LeetCode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Suresh0202/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Suresh0202/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/Suresh0202/LeetCode/tree/master/0639-decode-ways-ii) |
