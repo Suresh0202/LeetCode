@@ -127,6 +127,7 @@ Submitted Solutions
 | [2792-neighboring-bitwise-xor](https://github.com/Suresh0202/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Suresh0202/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suresh0202/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Suresh0202/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suresh0202/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -921,6 +922,7 @@ Submitted Solutions
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Suresh0202/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Suresh0202/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suresh0202/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Suresh0202/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Data Stream
