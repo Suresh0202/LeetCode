@@ -118,6 +118,7 @@ Submitted Solutions
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Suresh0202/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Suresh0202/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Suresh0202/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Suresh0202/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suresh0202/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -442,6 +443,7 @@ Submitted Solutions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Suresh0202/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Suresh0202/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Suresh0202/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Monotonic Stack
@@ -955,6 +957,7 @@ Submitted Solutions
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Suresh0202/LeetCode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/Suresh0202/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Suresh0202/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Suresh0202/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Suresh0202/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Suresh0202/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
