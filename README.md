@@ -133,6 +133,7 @@ Submitted Solutions
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Suresh0202/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Suresh0202/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Suresh0202/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Suresh0202/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Suresh0202/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/Suresh0202/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Suresh0202/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -520,6 +521,7 @@ Submitted Solutions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Suresh0202/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Suresh0202/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Suresh0202/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Tree
 |  |
@@ -928,6 +930,7 @@ Submitted Solutions
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Suresh0202/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Suresh0202/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Suresh0202/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Suresh0202/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Suresh0202/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Data Stream
 |  |
