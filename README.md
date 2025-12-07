@@ -920,6 +920,7 @@ Submitted Solutions
 | [1015-smallest-integer-divisible-by-k](https://github.com/Suresh0202/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Suresh0202/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Suresh0202/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Suresh0202/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Suresh0202/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Suresh0202/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Suresh0202/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
