@@ -898,6 +898,7 @@ Submitted Solutions
 | [1625-group-sold-products-by-the-date](https://github.com/Suresh0202/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Suresh0202/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Suresh0202/LeetCode/tree/master/1670-patients-with-a-condition) |
+| [1683-invalid-tweets](https://github.com/Suresh0202/LeetCode/tree/master/1683-invalid-tweets) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Suresh0202/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Suresh0202/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1811-fix-names-in-a-table](https://github.com/Suresh0202/LeetCode/tree/master/1811-fix-names-in-a-table) |
