@@ -896,6 +896,7 @@ Submitted Solutions
 | [1664-find-users-with-valid-e-mails](https://github.com/Suresh0202/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Suresh0202/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Suresh0202/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Suresh0202/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1811-fix-names-in-a-table](https://github.com/Suresh0202/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Suresh0202/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Suresh0202/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
