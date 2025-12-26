@@ -1,4 +1,5 @@
-select u.unique_id,e.name 
-from Employees  e
-left join EmployeeUNI  u 
-on u.id  = e.id
+select b.unique_id ,a.name     
+from Employees as a
+left join EmployeeUNI  as b
+on a.id = b.id
+
