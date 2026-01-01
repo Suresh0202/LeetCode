@@ -21,6 +21,7 @@ Submitted Solutions
 | [0057-insert-interval](https://github.com/Suresh0202/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Suresh0202/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suresh0202/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Suresh0202/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Suresh0202/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Suresh0202/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Suresh0202/LeetCode/tree/master/0078-subsets) |
@@ -912,6 +913,7 @@ Submitted Solutions
 | [0007-reverse-integer](https://github.com/Suresh0202/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Suresh0202/LeetCode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Suresh0202/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Suresh0202/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Suresh0202/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Suresh0202/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Suresh0202/LeetCode/tree/master/0189-rotate-array) |
