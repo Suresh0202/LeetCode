@@ -1,37 +1,20 @@
 class Solution {
-    public static void func(int ans[],int digits[])
-    {
-        int n=ans.length;
-        ans[n-1]=0;
-        for(int i=ans.length-2;i>=0;i--)
+    public int[] plusOne(int[] digits) {
+        int ans[]=new int[digits.length+1];
+        for(int i=digits.length-1;i>=0;i--)
         {
-            if(digits[i] == 9)
+            if(digits[i]!=9)
             {
-                ans[i]=0;
+                digits[i]+=1;
+                return digits;
             }else
             {
-                
+                digits[i]=0;
             }
         }
-    }
-    public int[] plusOne(int[] digits) {
-        // int ans[]=new int[digits.length];
-        int n=digits.length;
-        if(digits[n-1] == 9)
-        {
-           int ans[]=new int[n+1];
-           ans[0]=1;
-           func(ans,digits);
-           ans[0]=1;
-
-            return ans;
-        }else
-        {
-            digits[n-1]=digits[n-1]+1;
-            return digits;
-        }
+        ans[0]=1;
+        return ans;
     
-        // return ;
-        
+
     }
 }
