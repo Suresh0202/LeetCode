@@ -237,6 +237,7 @@ Submitted Solutions
 | [0383-ransom-note](https://github.com/Suresh0202/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Suresh0202/LeetCode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/Suresh0202/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suresh0202/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Suresh0202/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Suresh0202/LeetCode/tree/master/0520-detect-capital) |
@@ -863,6 +864,7 @@ Submitted Solutions
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Suresh0202/LeetCode/tree/master/0412-fizz-buzz) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Suresh0202/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Suresh0202/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Suresh0202/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -924,6 +926,7 @@ Submitted Solutions
 | [0268-missing-number](https://github.com/Suresh0202/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Suresh0202/LeetCode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Suresh0202/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/Suresh0202/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Suresh0202/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Suresh0202/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Suresh0202/LeetCode/tree/master/1013-fibonacci-number) |
